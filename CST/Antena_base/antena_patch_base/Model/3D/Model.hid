@@ -34,44 +34,12 @@ Solid.Delete "Substatro:Substrato"
 [end]undo_item
 [start]undo_item
 [start]block_index
-5
-[end]block_index
-[start]command
-[end]command
-[start]content
-Solid.Delete "Substatro:pista_alimentacion"
-[end]content
-[start]recover_picks
-1
-[end]recover_picks
-[start]delete_solids
-1
-[end]delete_solids
-[end]undo_item
-[start]undo_item
-[start]block_index
 14
 [end]block_index
 [start]command
 [end]command
 [start]content
 Solid.Delete "Placa_Superior_(simple):Substrato"
-[end]content
-[start]recover_picks
-1
-[end]recover_picks
-[start]delete_solids
-1
-[end]delete_solids
-[end]undo_item
-[start]undo_item
-[start]block_index
-15
-[end]block_index
-[start]command
-[end]command
-[start]content
-Solid.Delete "Placa_Superior_(simple):antena"
 [end]content
 [start]recover_picks
 1

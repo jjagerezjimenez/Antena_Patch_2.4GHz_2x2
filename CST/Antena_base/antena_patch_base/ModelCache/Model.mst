@@ -7,9 +7,9 @@ Placa_inferior_(doble):pista_alimentacion
 Placa_inferior_(doble):ranura
 0
 1
-Placa_Superior_(simple):Substrato
+Placa_Superior_(simple):antena
 0
 1
-Placa_Superior_(simple):antena
+Placa_Superior_(simple):Substrato
 0
 1

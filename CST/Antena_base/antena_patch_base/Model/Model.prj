@@ -5,7 +5,7 @@
 [Author]
 Facultad
 [Mesh Cells]
-
+20,712
 [Mesh Type]
 Tetrahedral
 [Last Problem Type]
@@ -15,7 +15,7 @@ HF Frequency Domain
 [Last Solver Type Abb]
 f
 [Results]
-Unavailable
+Frequency Domain: S-Parameter
 [Modeler Unique ID]
-5:antena_patch_base.cst?e0caa9eca9b782adf49d60e19644712f?16963:numberofparameters=0:port=1>mode=1>zre=0>zim=0
+5:antena_patch_base.cst?40e55735ca05632e3597dc3d22bfbb36?16993:numberofparameters=0:port=1>mode=1>zre=0>zim=0
 [Comment]

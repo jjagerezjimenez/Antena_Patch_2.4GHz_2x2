@@ -378,8 +378,8 @@ With Brick
      .Name "ranura(vacio)" 
      .Component "Placa_inferior_(doble)" 
      .Material "Vacuum" 
-     .Xrange "-15", "15" 
-     .Yrange "-2", "2" 
+     .Xrange "-0.961", "0.961" 
+     .Yrange "-9.613", "9.613" 
      .Zrange "1.6", "2.38" 
      .Create
 End With
@@ -416,8 +416,8 @@ With Brick
      .Name "antena" 
      .Component "Placa_Superior_(simple)" 
      .Material "Copper (pure)" 
-     .Xrange "-15", "15" 
-     .Yrange "-15", "15" 
+     .Xrange "-19.197", "19.197" 
+     .Yrange "-13.733", "13.733" 
      .Zrange "4.4", "5.18" 
      .Create
 End With
