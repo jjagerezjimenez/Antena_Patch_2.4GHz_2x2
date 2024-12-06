@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects/>
+  <Materials>
+    <Material name="Default">
+      <Drawstyle color="0.5 0 0.5" transparency="0" linestrength="1"/>
+    </Material>
+  </Materials>
+  <Groups/>
+</CSTAuxiliaryGeometry>
