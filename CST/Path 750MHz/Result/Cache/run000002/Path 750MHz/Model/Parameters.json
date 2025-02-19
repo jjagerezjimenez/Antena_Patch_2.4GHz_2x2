@@ -1,0 +1,70 @@
+{
+    "parameters": [
+        {
+            "descr": "La mitad del tamaño de una placa cuadrada",
+            "expr": "100",
+            "name": "Placa",
+            "value": "100"
+        },
+        {
+            "descr": "Ancho del parche",
+            "expr": "174.7",
+            "name": "Wp",
+            "value": "174.7"
+        },
+        {
+            "descr": "Largo del parche",
+            "expr": "153.5",
+            "name": "Lp",
+            "value": "153.5"
+        },
+        {
+            "descr": "Ancho de la ranura",
+            "expr": "6.45",
+            "name": "Wa",
+            "value": "6.45"
+        },
+        {
+            "descr": "Largo de la ranura",
+            "expr": "64.5",
+            "name": "La",
+            "value": "64.5"
+        },
+        {
+            "descr": "Ancho de la guia de onda",
+            "expr": "3",
+            "name": "Wf",
+            "value": "3"
+        },
+        {
+            "descr": "Largo de la guia de onda",
+            "expr": "78.55",
+            "name": "Lf",
+            "value": "78.55"
+        },
+        {
+            "expr": "98.1875",
+            "name": "Lamda",
+            "value": "98.1875"
+        },
+        {
+            "descr": "altura cobre",
+            "expr": "0.8",
+            "name": "Hcooper",
+            "value": "0.8"
+        },
+        {
+            "descr": "Altura dielectrico",
+            "expr": "1.52",
+            "name": "Hfr",
+            "value": "1.52"
+        },
+        {
+            "descr": "Altura Aire",
+            "expr": "1.6",
+            "name": "Hair",
+            "value": "1.6"
+        }
+    ],
+    "version": 1
+}
