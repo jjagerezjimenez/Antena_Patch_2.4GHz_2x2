@@ -6,6 +6,20 @@
             "skip existing combinations": "true",
             "start active solver": "true"
         },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "35",
+                    "samples": "7",
+                    "to": "70",
+                    "type": "linear",
+                    "varname": "Lf"
+                },
+                {
+                    "index": 1
+                }
+            ]
+        },
         "version": 1
     }
 }

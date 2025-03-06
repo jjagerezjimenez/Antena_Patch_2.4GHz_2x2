@@ -12,22 +12,22 @@
       {
          "name": "Wp",
          "type": "float",
-         "value": 54.51
+         "value": 58.27
       },
       {
          "name": "Lp",
          "type": "float",
-         "value": 44.05
+         "value": 47.4
       },
       {
          "name": "Wa",
          "type": "float",
-         "value": 3.08
+         "value": 3.32
       },
       {
          "name": "La",
          "type": "float",
-         "value": 30.83
+         "value": 33.18
       },
       {
          "name": "Wf",
@@ -37,7 +37,7 @@
       {
          "name": "Lf",
          "type": "float",
-         "value": 40.0
+         "value": 70.0
       },
       {
          "name": "Lamda",

@@ -8,27 +8,27 @@
         },
         {
             "descr": "Ancho del parche",
-            "expr": "54.51",
+            "expr": "58.27",
             "name": "Wp",
-            "value": "54.51"
+            "value": "58.27"
         },
         {
             "descr": "Largo del parche",
-            "expr": "44.05",
+            "expr": "47.40",
             "name": "Lp",
-            "value": "44.05"
+            "value": "47.40"
         },
         {
             "descr": "Ancho de la ranura",
-            "expr": "3.08",
+            "expr": "3.32",
             "name": "Wa",
-            "value": "3.08"
+            "value": "3.32"
         },
         {
             "descr": "Largo de la ranura",
-            "expr": "30.83",
+            "expr": "33.18",
             "name": "La",
-            "value": "30.83"
+            "value": "33.18"
         },
         {
             "descr": "Ancho de la guia de onda",
@@ -38,9 +38,9 @@
         },
         {
             "descr": "Largo de la guia de onda",
-            "expr": "40",
+            "expr": "70",
             "name": "Lf",
-            "value": "40"
+            "value": "70"
         },
         {
             "expr": "98.1875",
