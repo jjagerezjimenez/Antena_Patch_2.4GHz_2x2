@@ -7,37 +7,37 @@
       {
          "name": "Placa",
          "type": "float",
-         "value": 100.0
+         "value": 35.0
       },
       {
          "name": "Wp",
          "type": "float",
-         "value": 174.7
+         "value": 54.51
       },
       {
          "name": "Lp",
          "type": "float",
-         "value": 153.5
+         "value": 44.05
       },
       {
          "name": "Wa",
          "type": "float",
-         "value": 6.45
+         "value": 3.08
       },
       {
          "name": "La",
          "type": "float",
-         "value": 64.5
+         "value": 30.83
       },
       {
          "name": "Wf",
          "type": "float",
-         "value": 3.0
+         "value": 3.06
       },
       {
          "name": "Lf",
          "type": "float",
-         "value": 110.0
+         "value": 40.0
       },
       {
          "name": "Lamda",
@@ -47,7 +47,7 @@
       {
          "name": "Hcooper",
          "type": "float",
-         "value": 0.8
+         "value": 0.35
       },
       {
          "name": "Hfr",

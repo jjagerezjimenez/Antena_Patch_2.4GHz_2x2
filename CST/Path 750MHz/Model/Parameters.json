@@ -2,45 +2,45 @@
     "parameters": [
         {
             "descr": "La mitad del tamaño de una placa cuadrada",
-            "expr": "100",
+            "expr": "35",
             "name": "Placa",
-            "value": "100"
+            "value": "35"
         },
         {
             "descr": "Ancho del parche",
-            "expr": "174.7",
+            "expr": "54.51",
             "name": "Wp",
-            "value": "174.7"
+            "value": "54.51"
         },
         {
             "descr": "Largo del parche",
-            "expr": "153.5",
+            "expr": "44.05",
             "name": "Lp",
-            "value": "153.5"
+            "value": "44.05"
         },
         {
             "descr": "Ancho de la ranura",
-            "expr": "6.45",
+            "expr": "3.08",
             "name": "Wa",
-            "value": "6.45"
+            "value": "3.08"
         },
         {
             "descr": "Largo de la ranura",
-            "expr": "64.5",
+            "expr": "30.83",
             "name": "La",
-            "value": "64.5"
+            "value": "30.83"
         },
         {
             "descr": "Ancho de la guia de onda",
-            "expr": "3",
+            "expr": "3.06",
             "name": "Wf",
-            "value": "3"
+            "value": "3.06"
         },
         {
             "descr": "Largo de la guia de onda",
-            "expr": "110",
+            "expr": "40",
             "name": "Lf",
-            "value": "110"
+            "value": "40"
         },
         {
             "expr": "98.1875",
@@ -49,9 +49,9 @@
         },
         {
             "descr": "altura cobre",
-            "expr": "0.8",
+            "expr": "0.35",
             "name": "Hcooper",
-            "value": "0.8"
+            "value": "0.35"
         },
         {
             "descr": "Altura dielectrico",

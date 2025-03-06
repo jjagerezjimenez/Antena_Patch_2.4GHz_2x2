@@ -5,7 +5,7 @@
 [Author]
 Matias
 [Mesh Cells]
-342,990
+205,128
 [Mesh Type]
 Hexahedral
 [Last Problem Type]
@@ -17,5 +17,5 @@ t
 [Results]
 Time Domain: S-Parameter
 [Modeler Unique ID]
-5:path 750mhz.cst?21d4d9e68788977b001acfe35913c711?71597:numberofparameters=10:port=1>mode=1>zre=0>zim=0:::hair?hcooper?hfr?la?lf?lp?placa?wa?wf?wp
+5:path 750mhz.cst?34338c78ba4a934622ef3c749cc38295?75669:numberofparameters=10:port=1>mode=1>zre=0>zim=0:::hair?hcooper?hfr?la?lf?lp?placa?wa?wf?wp
 [Comment]

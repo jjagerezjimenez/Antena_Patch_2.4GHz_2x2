@@ -3,7 +3,7 @@
 '# length = mm
 '# frequency = MHz
 '# time = ns
-'# frequency range: fmin = 500 fmax = 3000
+'# frequency range: fmin = 1000 fmax = 4000
 '# created = '[VERSION]2021.1|30.0.1|20201110[/VERSION]
 
 
@@ -2826,5 +2826,173 @@ With Solver
      .FullDeembedding "False"
      .SuperimposePLWExcitation "False"
      .UseSensitivityAnalysis "False"
+End With
+
+'@ delete monitor: loss (f=750)
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+With Monitor 
+     .Delete "loss (f=750)" 
+End With
+
+'@ define monitor: loss (f=2400)
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+With Monitor 
+     .Reset 
+     .Name "loss (f=2400)" 
+     .Dimension "Volume" 
+     .Domain "Frequency" 
+     .FieldType "Powerloss" 
+     .MonitorValue "2400" 
+     .UseSubvolume "False" 
+     .Coordinates "Free" 
+     .SetSubvolume "0.0", "0.0", "0.0", "0.0", "0.0", "0.0" 
+     .SetSubvolumeOffset "0.0", "0.0", "0.0", "0.0", "0.0", "0.0" 
+     .SetSubvolumeInflateWithOffset "False" 
+     .Create 
+End With
+
+'@ delete monitor: farfield (f=750)
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+With Monitor 
+     .Delete "farfield (f=750)" 
+End With
+
+'@ define farfield monitor: farfield (f=2400)
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+With Monitor 
+     .Reset 
+     .Name "farfield (f=2400)" 
+     .Domain "Frequency" 
+     .FieldType "Farfield" 
+     .MonitorValue "2400" 
+     .ExportFarfieldSource "False" 
+     .UseSubvolume "False" 
+     .Coordinates "Structure" 
+     .SetSubvolume "-35", "35", "-35", "35", "-0.34999999999999998", "15.168800000000001" 
+     .SetSubvolumeOffset "10", "10", "10", "10", "10", "10" 
+     .SetSubvolumeInflateWithOffset "False" 
+     .SetSubvolumeOffsetType "FractionOfWavelength" 
+     .EnableNearfieldCalculation "True" 
+     .Create 
+End With
+
+'@ define monitor: e-field (f=2400)
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+With Monitor 
+     .Reset 
+     .Name "e-field (f=2400)" 
+     .Dimension "Volume" 
+     .Domain "Frequency" 
+     .FieldType "Efield" 
+     .MonitorValue "2400" 
+     .UseSubvolume "False" 
+     .Coordinates "Structure" 
+     .SetSubvolume "-35", "35", "-35", "35", "-0.35", "15.1688" 
+     .SetSubvolumeOffset "0.0", "0.0", "0.0", "0.0", "0.0", "0.0" 
+     .SetSubvolumeInflateWithOffset "False" 
+     .Create 
+End With
+
+'@ define monitor: h-field (f=2400)
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+With Monitor 
+     .Reset 
+     .Name "h-field (f=2400)" 
+     .Dimension "Volume" 
+     .Domain "Frequency" 
+     .FieldType "Hfield" 
+     .MonitorValue "2400" 
+     .UseSubvolume "False" 
+     .Coordinates "Structure" 
+     .SetSubvolume "-35", "35", "-35", "35", "-0.35", "15.1688" 
+     .SetSubvolumeOffset "0.0", "0.0", "0.0", "0.0", "0.0", "0.0" 
+     .SetSubvolumeInflateWithOffset "False" 
+     .Create 
+End With
+
+'@ define frequency range
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Solver.FrequencyRange "1000", "4000"
+
+'@ farfield plot options
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+With FarfieldPlot 
+     .Plottype "3D" 
+     .Vary "angle2" 
+     .Theta "90" 
+     .Phi "90" 
+     .Step "5" 
+     .Step2 "5" 
+     .SetLockSteps "True" 
+     .SetPlotRangeOnly "False" 
+     .SetThetaStart "0" 
+     .SetThetaEnd "180" 
+     .SetPhiStart "0" 
+     .SetPhiEnd "360" 
+     .SetTheta360 "False" 
+     .SymmetricRange "False" 
+     .SetTimeDomainFF "False" 
+     .SetFrequency "2400" 
+     .SetTime "0" 
+     .SetColorByValue "True" 
+     .DrawStepLines "False" 
+     .DrawIsoLongitudeLatitudeLines "False" 
+     .ShowStructure "True" 
+     .ShowStructureProfile "True" 
+     .SetStructureTransparent "True" 
+     .SetFarfieldTransparent "True" 
+     .AspectRatio "Free" 
+     .ShowGridlines "True" 
+     .InvertAxes "False", "False" 
+     .SetSpecials "enablepolarextralines" 
+     .SetPlotMode "Directivity" 
+     .Distance "1" 
+     .UseFarfieldApproximation "True" 
+     .IncludeUnitCellSidewalls "True" 
+     .SetScaleLinear "False" 
+     .SetLogRange "40" 
+     .SetLogNorm "0" 
+     .DBUnit "0" 
+     .SetMaxReferenceMode "abs" 
+     .EnableFixPlotMaximum "False" 
+     .SetFixPlotMaximumValue "1" 
+     .SetInverseAxialRatio "False" 
+     .SetAxesType "user" 
+     .SetAntennaType "isotropic_linear" 
+     .Phistart "1.000000e+00", "0.000000e+00", "0.000000e+00" 
+     .Thetastart "0.000000e+00", "0.000000e+00", "1.000000e+00" 
+     .PolarizationVector "0.000000e+00", "1.000000e+00", "0.000000e+00" 
+     .SetCoordinateSystemType "ludwig2ae" 
+     .SetAutomaticCoordinateSystem "True" 
+     .SetPolarizationType "Slant" 
+     .SlantAngle 0.000000e+00 
+     .Origin "bbox" 
+     .Userorigin "0.000000e+00", "0.000000e+00", "0.000000e+00" 
+     .SetUserDecouplingPlane "False" 
+     .UseDecouplingPlane "False" 
+     .DecouplingPlaneAxis "X" 
+     .DecouplingPlanePosition "0.000000e+00" 
+     .LossyGround "False" 
+     .GroundEpsilon "1" 
+     .GroundKappa "0" 
+     .EnablePhaseCenterCalculation "False" 
+     .SetPhaseCenterAngularLimit "3.000000e+01" 
+     .SetPhaseCenterComponent "boresight" 
+     .SetPhaseCenterPlane "both" 
+     .ShowPhaseCenter "True" 
+     .ClearCuts 
+     .AddCut "lateral", "0", "1"  
+     .AddCut "lateral", "90", "1"  
+     .AddCut "polar", "90", "1"  
+
+     .StoreSettings
 End With
 

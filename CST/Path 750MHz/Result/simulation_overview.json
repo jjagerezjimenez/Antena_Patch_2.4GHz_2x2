@@ -1,5 +1,5 @@
 {
-    "date": "2025-03-06, 11:14:14, Hora estándar de Argentina",
+    "date": "2025-03-06, 11:52:59, Hora estándar de Argentina",
     "solver_runs_and_tasks": {
         "module_name": "standard simulation project",
         "solver_run": {
@@ -37,10 +37,10 @@
             "task_name": "solver run",
             "time_info": {
                 "details": {
-                    "discretizer": 98,
-                    "solver": 301
+                    "discretizer": 68,
+                    "solver": 134
                 },
-                "run_time": 463
+                "run_time": 281
             }
         }
     },
