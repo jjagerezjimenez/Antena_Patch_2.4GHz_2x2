@@ -38,9 +38,9 @@
         },
         {
             "descr": "Largo de la guia de onda",
-            "expr": "78.55",
+            "expr": "110",
             "name": "Lf",
-            "value": "78.55"
+            "value": "110"
         },
         {
             "expr": "98.1875",

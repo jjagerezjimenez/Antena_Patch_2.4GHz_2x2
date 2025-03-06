@@ -3,7 +3,7 @@
 '# length = mm
 '# frequency = MHz
 '# time = ns
-'# frequency range: fmin = 500 fmax = 1500
+'# frequency range: fmin = 500 fmax = 3000
 '# created = '[VERSION]2021.1|30.0.1|20201110[/VERSION]
 
 
@@ -2758,4 +2758,73 @@ Solid.ChangeIndividualColor "Guia alimentacion:Sustrato1", "128", "128", "64"
 '[VERSION]2022.4|31.0.1|20220426[/VERSION]
 Solid.SetUseIndividualColor "Guia alimentacion:Sustrato2", 1
 Solid.ChangeIndividualColor "Guia alimentacion:Sustrato2", "128", "128", "64"
+
+'@ delete port: port1
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Port.Delete "1"
+
+'@ pick face
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Pick.PickFaceFromId "Guia alimentacion:Guia alimentacion", "6"
+
+'@ define port:1
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+' Port constructed by macro Solver -> Ports -> Calculate port extension coefficient
+
+
+With Port
+  .Reset
+  .PortNumber "1"
+  .NumberOfModes "1"
+  .AdjustPolarization False
+  .PolarizationAngle "0.0"
+  .ReferencePlaneDistance "0"
+  .TextSize "50"
+  .Coordinates "Picks"
+  .Orientation "Positive"
+  .PortOnBound "True"
+  .ClipPickedPortToBound "False"
+  .XrangeAdd "0", "0"
+  .YrangeAdd "1.52*7.19", "1.52*7.19"
+  .ZrangeAdd "1.52", "1.52*7.19"
+  .Shield "PEC"
+  .SingleEnded "False"
+  .Create
+End With
+
+'@ change solver type
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+ChangeSolverType "HF Time Domain"
+
+'@ define frequency range
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Solver.FrequencyRange "500", "3000"
+
+'@ define time domain solver parameters
+
+'[VERSION]2022.4|31.0.1|20220426[/VERSION]
+Mesh.SetCreator "High Frequency" 
+
+With Solver 
+     .Method "Hexahedral"
+     .CalculationType "TD-S"
+     .StimulationPort "All"
+     .StimulationMode "All"
+     .SteadyStateLimit "-80"
+     .MeshAdaption "False"
+     .AutoNormImpedance "False"
+     .NormingImpedance "50"
+     .CalculateModesOnly "False"
+     .SParaSymmetry "False"
+     .StoreTDResultsInCache  "False"
+     .RunDiscretizerOnly "False"
+     .FullDeembedding "False"
+     .SuperimposePLWExcitation "False"
+     .UseSensitivityAnalysis "False"
+End With
 
