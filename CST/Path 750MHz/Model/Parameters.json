@@ -8,9 +8,9 @@
         },
         {
             "descr": "Ancho del parche",
-            "expr": "58.27",
+            "expr": "44.5675",
             "name": "Wp",
-            "value": "58.27"
+            "value": "44.5675"
         },
         {
             "descr": "Largo del parche",
@@ -38,9 +38,9 @@
         },
         {
             "descr": "Largo de la guia de onda",
-            "expr": "70",
+            "expr": "41",
             "name": "Lf",
-            "value": "70"
+            "value": "41"
         },
         {
             "expr": "98.1875",

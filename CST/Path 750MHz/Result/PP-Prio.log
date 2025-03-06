@@ -1,0 +1,21 @@
+===================================================================================================
+== CST Matrix Calculation Priority Log
+===================================================================================================
+ 
+Priorities are sorted in ascending order beginning with the lowest priority
+ 
+Priority-group: 1, shape 7: </cst/Boundaries/> Low^X,   material: $NFSMaterial$,  user-priority: 0.000000,   material-attributes: normal.vacuum,  shape-attributes: boundary,    scheme type:FIT_TD
+Priority-group: 1, shape 8: </cst/Boundaries/> Low^Y,   material: $NFSMaterial$,  user-priority: 0.000000,   material-attributes: normal.vacuum,  shape-attributes: boundary,    scheme type:FIT_TD
+Priority-group: 1, shape 9: </cst/Boundaries/> Low^Z,   material: $NFSMaterial$,  user-priority: 0.000000,   material-attributes: normal.vacuum,  shape-attributes: boundary,    scheme type:FIT_TD
+Priority-group: 1, shape 10: </cst/Boundaries/> Up^X,    material: $NFSMaterial$,  user-priority: 0.000000,   material-attributes: normal.vacuum,  shape-attributes: boundary,    scheme type:FIT_TD
+Priority-group: 1, shape 11: </cst/Boundaries/> Up^Y,    material: $NFSMaterial$,  user-priority: 0.000000,   material-attributes: normal.vacuum,  shape-attributes: boundary,    scheme type:FIT_TD
+Priority-group: 1, shape 12: </cst/Boundaries/> Up^Z,    material: $NFSMaterial$,  user-priority: 0.000000,   material-attributes: normal.vacuum,  shape-attributes: boundary,    scheme type:FIT_TD
+Priority-group: 2, shape 4: Guia alimentacion:Sustrato1,    material: FR-4 (loss free),   user-priority: 0.000000,   2D/3D-geometry: true, material-attributes: normal, shape-attributes: solid,   scheme type:FIT_TD
+Priority-group: 2, shape 5: Guia alimentacion:Sustrato2,    material: FR-4 (loss free),   user-priority: 0.000000,   2D/3D-geometry: true, material-attributes: normal, shape-attributes: solid,   scheme type:FIT_TD
+Priority-group: 2, shape 6: Guia alimentacion:aire, material: Air,    user-priority: 0.000000,   2D/3D-geometry: true, material-attributes: normal.rho, shape-attributes: solid,   scheme type:FIT_TD
+Priority-group: 3, shape 1: Guia alimentacion:Antena,   material: Copper (pure),  user-priority: 0.000000,   2D/3D-geometry: true, material-attributes: pec.rho.surface-impedance,  shape-attributes: solid,   scheme type:FIT_TD
+Priority-group: 3, shape 2: Guia alimentacion:Guia alimentacion,    material: Copper (pure),  user-priority: 0.000000,   2D/3D-geometry: true, material-attributes: pec.rho.surface-impedance,  shape-attributes: solid,   scheme type:FIT_TD
+Priority-group: 3, shape 3: Guia alimentacion:Ranura,   material: Copper (pure),  user-priority: 0.000000,   2D/3D-geometry: true, material-attributes: pec.rho.surface-impedance,  shape-attributes: solid,   scheme type:FIT_TD
+ 
+===================================================================================================
+ 

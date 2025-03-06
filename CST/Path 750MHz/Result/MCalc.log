@@ -1,0 +1,60 @@
+======================================================
+ - pinning rule in use   : PINNING_RULE_MCALC_SKIP_ALL
+ - desired group         : 0, sockets = 0
+ - num cores available   : 8
+ - num accessible procs          : 8
+ - num logical procs             : 8
+ - affinity (main thread)        : 11111111
+ - sockets                       : 0
+ - potential cores               : 0,2,4,6
+ - affinity                      : 10101010
+ - core list                  (3): 0,2,4,6
+ - active cores          : 0,2,4,6
+ - hyperthreading        : on
+ - allowed core ids      : 0,2,4,6
+ - allowed core ids (aff): 1010 1010 
+ - used mask (string)    : 1010 1010 
+======================================================
+
+==========================================================================
+Version: 2022.4 Release from 2022-04-26 (change 967892) [Release]
+Workflow: QQ-Facets
+Operation: [acis, fpba, bg, connectivity-tree]
+Architecture: Windows, ID: AMD64
+System Windows-64bit
+Using processor group 0/1
+HEX Mesh information:
+Hex mesh: global: [hxr o(0 | 0 | 0) s(76 | 87 | 34) np (no TSTs): 224808] 
+==========================================================================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025 Mar 06 (Thu):  13:19:04
+started: processing CAD model
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+========================================================================
+Processing CAD model (for field results)
+	[Improved internal geometry representation]
+	[Accuracy improvement for long shapes in inhomogeneous mesh regions]
+Version 2022.4 (build 20220426)
+PBA version 2020111021
+Sub-Workflow: Facets-QQ-GEX
+Workflow updated: -
+2025 Mar 06 (Thu):  13:19:04
+========================================================================
+
+===========================================
+Finished CAD processing (for field results)
+===========================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2025 Mar 06 (Thu):  13:19:07
+Resource usage for processing CAD model:
+	Runtime                 00:00:02.00303
+	Peak Memory Usage:               62 MB
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+------------------------------------------------------------------------------------------------------------------------------
+PBAMeshFeedback - InfoMap: 0[ms] - SBCell navigation: Using legacy edges - CornerCorrectionLinesAndWires: 0[ms] - Write: 1[ms]
+------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,17 @@
+06/Mar/2025 13:19:01  Defined reference frequency for open boundary condition (2500 MHz) is larger
+                      than the lowest relevant system frequency (monitor at 2400 MHz).
+                      Please check open boundary settings to ensure accurate monitor results for the
+                      lowest frequency of interest.
+                      
+                      ------------------------------------------------------------------------------
+06/Mar/2025 13:19:01  *** Warning ***
+                      
+                      The monitor loss (f=2400) is only available for dielectric or magnetic losses
+                      and will be ignored.
+                      
+                      ------------------------------------------------------------------------------
+06/Mar/2025 13:19:51  *** Warning ***
+                      
+                      Solver run aborted by user.
+                      
+                      ------------------------------------------------------------------------------

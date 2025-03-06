@@ -12,7 +12,7 @@
       {
          "name": "Wp",
          "type": "float",
-         "value": 58.27
+         "value": 44.5675
       },
       {
          "name": "Lp",
@@ -37,7 +37,7 @@
       {
          "name": "Lf",
          "type": "float",
-         "value": 70.0
+         "value": 41.0
       },
       {
          "name": "Lamda",

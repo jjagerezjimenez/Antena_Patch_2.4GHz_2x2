@@ -5,7 +5,7 @@
 [Author]
 Matias
 [Mesh Cells]
-
+212,850
 [Mesh Type]
 Hexahedral
 [Last Problem Type]
@@ -15,7 +15,7 @@ HF Time Domain
 [Last Solver Type Abb]
 t
 [Results]
-Unknown
+Time Domain: S-Parameter
 [Modeler Unique ID]
 5:path 750mhz.cst?0848d73fa07be0ef04382c9d91b65765?75670:numberofparameters=10:port=1>mode=1>zre=0>zim=0:::hair?hcooper?hfr?la?lf?lp?placa?wa?wf?wp
 [Comment]

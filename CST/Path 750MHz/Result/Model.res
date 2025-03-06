@@ -1,5 +1,45 @@
 MWS Result File Version 20150206
-size=i:42
+size=i:54
+
+type=s:HIDDENITEM
+problemclass=s::8:1000
+visibility=s:hidden
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+files=s:ml_info.dat
+
+type=s:HIDDENITEM
+problemclass=s::8:1000
+visibility=s:hidden
+creation=s:internal
+lifetime=s:survivemeshadapt
+result=s:1
+files=s:PP.fmm
+
+type=s:HIDDENITEM
+problemclass=s::8:1000
+visibility=s:hidden
+creation=s:internal
+lifetime=s:survivemeshadapt
+result=s:1
+files=s:PP.sid
+
+type=s:HIDDENITEM
+problemclass=s::8:1000
+visibility=s:hidden
+creation=s:internal
+lifetime=s:survivemeshadapt
+result=s:1
+files=s:model.gex
+
+type=s:HIDDENITEM
+problemclass=s::8:1000
+visibility=s:hidden
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+files=s:World.fid
 
 type=s:HIDDENITEM
 problemclass=s::8:1000
@@ -440,4 +480,76 @@ lifetime=s:persistent
 result=s:0
 treepath=s:Excitation Signals\default
 files=s:signal_default.sig
+
+type=s:MODEMAP
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:2D/3D Results\Port Modes\Port1\e1
+files=s:Port1_e1.pmm
+files=s:Port1_e1_pmm.rex
+ylabel=s:Port1 e1
+
+type=s:MODEMAP
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:2D/3D Results\Port Modes\Port1\h1
+files=s:Port1_h1.pmm
+files=s:Port1_h1_pmm.rex
+ylabel=s:Port1 h1
+
+type=s:XYSIGNAL2
+subtype=s:complex
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:1D Results\Port Information\Gamma\1(1)
+files=s:Gamma_1(1).sig
+
+type=s:XYSIGNAL2
+subtype=s:complex
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:1D Results\Port Information\Effective Dielectric Constant\1(1)
+files=s:epseff_1(1).sig
+
+type=s:XYSIGNAL2
+subtype=s:complex
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:1D Results\Port Information\Distance (-40 dB)\1(1)
+files=s:decaydist_1(1).sig
+
+type=s:XYSIGNAL2
+subtype=s:complex
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:1D Results\Port Information\Line Impedance\1(1)
+files=s:zline_1(1).sig
+
+type=s:XYSIGNAL2
+subtype=s:complex
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:1D Results\Port Information\Wave Impedance\1(1)
+files=s:zwave_1(1).sig
 
