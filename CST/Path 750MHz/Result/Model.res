@@ -495,6 +495,36 @@ result=s:1
 treepath=s:1D Results\Port Information\Port Modes_pmi\Gamma\1(1)
 files=s:Gamma_1(1)_pmi.sig
 
+type=s:FARFIELD1DCUT
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:surviveparchange
+result=s:1
+parametric=s:P
+treepath=s:Farfields\Farfield Cuts\Excitation [1]\Phi=0\farfield (f=2245)
+files=s:Farfield_Cut_farfield (f=2245)_Phi=0_[1]_0.sig
+
+type=s:FARFIELD1DCUT
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:surviveparchange
+result=s:1
+parametric=s:P
+treepath=s:Farfields\Farfield Cuts\Excitation [1]\Phi=90\farfield (f=2245)
+files=s:Farfield_Cut_farfield (f=2245)_Phi=90_[1]_0.sig
+
+type=s:FARFIELD1DCUT
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:surviveparchange
+result=s:1
+parametric=s:P
+treepath=s:Farfields\Farfield Cuts\Excitation [1]\Theta=90\farfield (f=2245)
+files=s:Farfield_Cut_farfield (f=2245)_Theta=90_[1]_0.sig
+
 type=s:XYSIGNAL2
 subtype=s:user
 problemclass=s::8:1000
@@ -922,34 +952,4 @@ lifetime=s:rebuild
 result=s:1
 treepath=s:1D Results\AutomaticRunInformation
 files=s:AutomaticRunInformation
-
-type=s:FARFIELD1DCUT
-problemclass=s::8:1000
-visibility=s:visible
-creation=s:internal
-lifetime=s:surviveparchange
-result=s:1
-parametric=s:P
-treepath=s:Farfields\Farfield Cuts\Excitation [1]\Phi=0\farfield (f=2245)
-files=s:Farfield_Cut_farfield (f=2245)_Phi=0_[1]_0.sig
-
-type=s:FARFIELD1DCUT
-problemclass=s::8:1000
-visibility=s:visible
-creation=s:internal
-lifetime=s:surviveparchange
-result=s:1
-parametric=s:P
-treepath=s:Farfields\Farfield Cuts\Excitation [1]\Phi=90\farfield (f=2245)
-files=s:Farfield_Cut_farfield (f=2245)_Phi=90_[1]_0.sig
-
-type=s:FARFIELD1DCUT
-problemclass=s::8:1000
-visibility=s:visible
-creation=s:internal
-lifetime=s:surviveparchange
-result=s:1
-parametric=s:P
-treepath=s:Farfields\Farfield Cuts\Excitation [1]\Theta=90\farfield (f=2245)
-files=s:Farfield_Cut_farfield (f=2245)_Theta=90_[1]_0.sig
 

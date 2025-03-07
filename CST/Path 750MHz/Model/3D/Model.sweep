@@ -6,6 +6,27 @@
             "skip existing combinations": "true",
             "start active solver": "true"
         },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "1",
+                    "samples": "5",
+                    "to": "3",
+                    "type": "linear",
+                    "varname": "Wa"
+                },
+                {
+                    "from": "13",
+                    "samples": "5",
+                    "to": "15",
+                    "type": "linear",
+                    "varname": "La"
+                },
+                {
+                    "index": 1
+                }
+            ]
+        },
         "version": 1
     }
 }

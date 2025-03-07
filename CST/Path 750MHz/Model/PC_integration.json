@@ -22,12 +22,12 @@
       {
          "name": "Wa",
          "type": "float",
-         "value": 2.0
+         "value": 3.0
       },
       {
          "name": "La",
          "type": "float",
-         "value": 14.0
+         "value": 15.0
       },
       {
          "name": "Wf",
