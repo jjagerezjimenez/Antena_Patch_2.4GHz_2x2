@@ -1,5 +1,5 @@
 MWS Result File Version 20150206
-size=i:96
+size=i:99
 
 type=s:DATA_FOLDER
 problemclass=s::8:1000
@@ -39,7 +39,7 @@ visibility=s:hidden
 creation=s:internal
 lifetime=s:rebuild
 result=s:1
-files=s:h-field (f=2245)_1,1.m3d
+files=s:e-field (f=2257)_1,1.m3d
 
 type=s:HIDDENITEM
 problemclass=s::8:1000
@@ -47,7 +47,7 @@ visibility=s:hidden
 creation=s:internal
 lifetime=s:rebuild
 result=s:1
-files=s:e-field (f=2245)_1,1.m3d
+files=s:h-field (f=2257)_1,1.m3d
 
 type=s:HIDDENITEM
 problemclass=s::8:1000
@@ -527,6 +527,46 @@ files=s:Farfield_Cut_farfield (f=2245)_Theta=90_[1]_0.sig
 
 type=s:XYSIGNAL2
 subtype=s:user
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:persistent
+result=s:0
+treepath=s:1D Results\Materials\Copper (pure)\Surface Impedance\Z' (Fit)
+files=s:Copper (pure)_Z_re.sig
+
+type=s:XYSIGNAL2
+subtype=s:user
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:persistent
+result=s:0
+treepath=s:1D Results\Materials\Copper (pure)\Surface Impedance\Z'' (Fit)
+files=s:Copper (pure)_Z_im.sig
+
+type=s:XYSIGNAL2
+subtype=s:user
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:persistent
+result=s:0
+treepath=s:1D Results\Materials\Copper (pure)\Surface Impedance\Z' (Theory)
+files=s:Copper (pure)_Z_datalist_re.sig
+
+type=s:XYSIGNAL2
+subtype=s:user
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:persistent
+result=s:0
+treepath=s:1D Results\Materials\Copper (pure)\Surface Impedance\Z'' (Theory)
+files=s:Copper (pure)_Z_datalist_im.sig
+
+type=s:XYSIGNAL2
+subtype=s:user
 problemclass=s::4:3
 visibility=s:visible
 creation=s:internal
@@ -657,25 +697,15 @@ result=s:1
 treepath=s:1D Results\Power\Excitation [1]\Loss in Metals
 files=s:cTotal_metal_loss(1).sig
 
-type=s:EFIELD3D
-problemclass=s::8:1000
-visibility=s:visible
-creation=s:internal
-lifetime=s:rebuild
-result=s:1
-treepath=s:2D/3D Results\E-Field\e-field (f=2245) [1]
-files=s:e-field (f=2245)_1,1.m3d
-files=s:e-field (f=2245)_1,1_m3d.rex
-
 type=s:HFIELD3D
 problemclass=s::8:1000
 visibility=s:visible
 creation=s:internal
 lifetime=s:rebuild
 result=s:1
-treepath=s:2D/3D Results\H-Field\h-field (f=2245) [1]
-files=s:h-field (f=2245)_1,1.m3d
-files=s:h-field (f=2245)_1,1_m3d.rex
+treepath=s:2D/3D Results\H-Field\h-field (f=2257) [1]
+files=s:h-field (f=2257)_1,1.m3d
+files=s:h-field (f=2257)_1,1_m3d.rex
 
 type=s:SURFACECURRENT
 problemclass=s::8:1000
@@ -683,9 +713,19 @@ visibility=s:visible
 creation=s:internal
 lifetime=s:rebuild
 result=s:1
-treepath=s:2D/3D Results\Surface Current\surface current (f=2245) [1]
-files=s:h-field (f=2245)_1,1.m3d
-files=s:h-field (f=2245)_1,1_m3d_sct.rex
+treepath=s:2D/3D Results\Surface Current\surface current (f=2257) [1]
+files=s:h-field (f=2257)_1,1.m3d
+files=s:h-field (f=2257)_1,1_m3d_sct.rex
+
+type=s:EFIELD3D
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+treepath=s:2D/3D Results\E-Field\e-field (f=2257) [1]
+files=s:e-field (f=2257)_1,1.m3d
+files=s:e-field (f=2257)_1,1_m3d.rex
 
 type=s:XYSIGNAL2
 subtype=s:time
@@ -803,9 +843,9 @@ visibility=s:visible
 creation=s:internal
 lifetime=s:rebuild
 result=s:1
-treepath=s:Farfields\farfield (f=2245) [1]
-files=s:farfield (f=2245)_1.ffm
-ylabel=s:farfield (f=2245) [1]
+treepath=s:Farfields\farfield (f=2257) [1]
+files=s:farfield (f=2257)_1.ffm
+ylabel=s:farfield (f=2257) [1]
 
 type=s:XYSIGNAL2
 subtype=s:complex
@@ -873,8 +913,8 @@ visibility=s:visible
 creation=s:internal
 lifetime=s:rebuild
 result=s:1
-treepath=s:Farfields\Farfield Cuts\Excitation [1]\Phi=0\farfield (f=2245)
-files=s:Farfield_Cut_farfield (f=2245)_Phi=0_[1]_0.sig
+treepath=s:Farfields\Farfield Cuts\Excitation [1]\Phi=0\farfield (f=2257)
+files=s:Farfield_Cut_farfield (f=2257)_Phi=0_[1]_0.sig
 
 type=s:FARFIELD1DCUT
 problemclass=s::8:1000
@@ -882,8 +922,8 @@ visibility=s:visible
 creation=s:internal
 lifetime=s:rebuild
 result=s:1
-treepath=s:Farfields\Farfield Cuts\Excitation [1]\Phi=90\farfield (f=2245)
-files=s:Farfield_Cut_farfield (f=2245)_Phi=90_[1]_0.sig
+treepath=s:Farfields\Farfield Cuts\Excitation [1]\Phi=90\farfield (f=2257)
+files=s:Farfield_Cut_farfield (f=2257)_Phi=90_[1]_0.sig
 
 type=s:FARFIELD1DCUT
 problemclass=s::8:1000
@@ -891,8 +931,8 @@ visibility=s:visible
 creation=s:internal
 lifetime=s:rebuild
 result=s:1
-treepath=s:Farfields\Farfield Cuts\Excitation [1]\Theta=90\farfield (f=2245)
-files=s:Farfield_Cut_farfield (f=2245)_Theta=90_[1]_0.sig
+treepath=s:Farfields\Farfield Cuts\Excitation [1]\Theta=90\farfield (f=2257)
+files=s:Farfield_Cut_farfield (f=2257)_Theta=90_[1]_0.sig
 
 type=s:XYSIGNAL2
 subtype=s:complex
@@ -913,43 +953,33 @@ result=s:1
 treepath=s:1D Results\AutomaticRunInformation
 files=s:AutomaticRunInformation
 
-type=s:XYSIGNAL2
-subtype=s:user
+type=s:FARFIELD1DCUT
 problemclass=s::8:1000
 visibility=s:visible
 creation=s:internal
-lifetime=s:persistent
-result=s:0
-treepath=s:1D Results\Materials\Copper (pure)\Surface Impedance\Z' (Fit)
-files=s:Copper (pure)_Z_re.sig
+lifetime=s:surviveparchange
+result=s:1
+parametric=s:P
+treepath=s:Farfields\Farfield Cuts\Excitation [1]\Phi=0\farfield (f=2257)
+files=s:Farfield_Cut_farfield (f=2257)_Phi=0_[1]_0.sig
 
-type=s:XYSIGNAL2
-subtype=s:user
+type=s:FARFIELD1DCUT
 problemclass=s::8:1000
 visibility=s:visible
 creation=s:internal
-lifetime=s:persistent
-result=s:0
-treepath=s:1D Results\Materials\Copper (pure)\Surface Impedance\Z'' (Fit)
-files=s:Copper (pure)_Z_im.sig
+lifetime=s:surviveparchange
+result=s:1
+parametric=s:P
+treepath=s:Farfields\Farfield Cuts\Excitation [1]\Phi=90\farfield (f=2257)
+files=s:Farfield_Cut_farfield (f=2257)_Phi=90_[1]_0.sig
 
-type=s:XYSIGNAL2
-subtype=s:user
+type=s:FARFIELD1DCUT
 problemclass=s::8:1000
 visibility=s:visible
 creation=s:internal
-lifetime=s:persistent
-result=s:0
-treepath=s:1D Results\Materials\Copper (pure)\Surface Impedance\Z' (Theory)
-files=s:Copper (pure)_Z_datalist_re.sig
-
-type=s:XYSIGNAL2
-subtype=s:user
-problemclass=s::8:1000
-visibility=s:visible
-creation=s:internal
-lifetime=s:persistent
-result=s:0
-treepath=s:1D Results\Materials\Copper (pure)\Surface Impedance\Z'' (Theory)
-files=s:Copper (pure)_Z_datalist_im.sig
+lifetime=s:surviveparchange
+result=s:1
+parametric=s:P
+treepath=s:Farfields\Farfield Cuts\Excitation [1]\Theta=90\farfield (f=2257)
+files=s:Farfield_Cut_farfield (f=2257)_Theta=90_[1]_0.sig
 

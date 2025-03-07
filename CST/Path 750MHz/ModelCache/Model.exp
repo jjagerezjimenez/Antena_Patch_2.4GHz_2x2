@@ -3,11 +3,11 @@
 -Hcooper
 -0.35
 -La/2#
--7.5
+-6.5
 -Lp/2#
 -19
 -Wa/2#
--1.5
+-0.75
 -Wf/2#
 -1.5
 -Wp/2#
@@ -29,7 +29,7 @@ Hfr+Hcooper
 Hfr+Hcooper+Hair
 2.37
 La/2#
-7.5
+6.5
 Lp/2#
 19
 Placa
@@ -37,7 +37,7 @@ Placa
 Placa-Lf
 -15
 Wa/2#
-1.5
+0.75
 Wf/2#
 1.5
 Wp/2#

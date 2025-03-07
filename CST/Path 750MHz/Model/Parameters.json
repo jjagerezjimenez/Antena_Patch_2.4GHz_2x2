@@ -20,15 +20,15 @@
         },
         {
             "descr": "Ancho de la ranura",
-            "expr": "3",
+            "expr": "1.5",
             "name": "Wa",
-            "value": "3"
+            "value": "1.5"
         },
         {
             "descr": "Largo de la ranura",
-            "expr": "15",
+            "expr": "13",
             "name": "La",
-            "value": "15"
+            "value": "13"
         },
         {
             "descr": "Ancho de la guia de onda",
