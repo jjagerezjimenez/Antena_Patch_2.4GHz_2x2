@@ -561,7 +561,7 @@ Solver.FrequencyRange "1000", "4000"
      .Orientation "zmax"
      .PortOnBound "False"
      .ClipPickedPortToBound "False"
-     .Xrange "0", "24.9176"
+     .Xrange "0", "24.957600000000003"
      .Yrange "0", "12.7988"
      .Zrange "0", "0"
      .XrangeAdd "0.0", "0.0"
@@ -570,6 +570,6 @@ Solver.FrequencyRange "1000", "4000"
      .SingleEnded "False"
      .Shield "PEC"
      .WaveguideMonitor "False"
-     .ReferenceWCS "12.4588", "6.3994", "0", "0", "0", "1", "0", "1", "0"
-(TRANSFORM) "0", "1", "0", "0", "0", "1", "1", "0", "0"| "35", "-12.4588", "2.37"(ENDTRANSFORM)
+     .ReferenceWCS "12.4788", "6.3994", "0", "0", "0", "1", "0", "1", "0"
+(TRANSFORM) "0", "1", "0", "0", "0", "1", "1", "0", "0"| "35", "-12.4788", "2.37"(ENDTRANSFORM)
 [ENDWAVEGUIDE]

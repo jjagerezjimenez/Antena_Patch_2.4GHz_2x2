@@ -9,9 +9,16 @@
         "sequences": {
             "Sequence 1": [
                 {
-                    "from": "58.27",
-                    "samples": "5",
-                    "to": "40",
+                    "from": "10",
+                    "samples": "20",
+                    "to": "60",
+                    "type": "linear",
+                    "varname": "Lp"
+                },
+                {
+                    "from": "10",
+                    "samples": "20",
+                    "to": "60",
                     "type": "linear",
                     "varname": "Wp"
                 },

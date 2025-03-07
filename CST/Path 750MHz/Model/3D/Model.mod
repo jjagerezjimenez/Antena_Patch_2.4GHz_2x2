@@ -1,4 +1,4 @@
-'# MWS Version: Version 2022.4 - Apr 26 2022 - ACIS 31.0.1 -
+'# MWS Version: Version 2022.0 - Aug 23 2021 - ACIS 31.0.1 -
 
 '# length = mm
 '# frequency = MHz
@@ -2995,4 +2995,27 @@ With FarfieldPlot
 
      .StoreSettings
 End With
+
+'@ define time domain solver acceleration
+
+'[VERSION]2022.0|31.0.1|20210823[/VERSION]
+With Solver 
+     .UseParallelization "True"
+     .MaximumNumberOfThreads "1024"
+     .MaximumNumberOfCPUDevices "8"
+     .RemoteCalculation "False"
+     .UseDistributedComputing "False"
+     .MaxNumberOfDistributedComputingPorts "64"
+     .DistributeMatrixCalculation "True"
+     .MPIParallelization "False"
+     .AutomaticMPI "False"
+     .HardwareAcceleration "True"
+     .MaximumNumberOfGPUs "16"
+End With
+UseDistributedComputingForParameters "False"
+MaxNumberOfDistributedComputingParameters "2"
+UseDistributedComputingMemorySetting "False"
+MinDistributedComputingMemoryLimit "0"
+UseDistributedComputingSharedDirectory "False"
+OnlyConsider0D1DResultsForDC "False"
 

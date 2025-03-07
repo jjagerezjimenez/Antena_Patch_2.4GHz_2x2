@@ -1,41 +1,3609 @@
-06/Mar/2025 13:03:09  ==========================================================================
+06/Mar/2025 18:40:57  ==========================================================================
                       Sequence: Sequence 1
                       ==========================================================================
 
-06/Mar/2025 13:03:09  --------------------------------------------------------------------------
+06/Mar/2025 18:40:57  --------------------------------------------------------------------------
                       Parameter Values: 
                       
-                         Wp = 58.27
-06/Mar/2025 13:03:10  
+                         Lp = 10
+                         Wp = 10
+06/Mar/2025 18:40:57  
                       Structure update: Successful
-06/Mar/2025 13:08:39            Solver: Successful
-06/Mar/2025 13:08:39       Solver time: 0 hours, 5 min., 29 sec.
-06/Mar/2025 13:08:39  --------------------------------------------------------------------------
+06/Mar/2025 18:41:31            Solver: Successful
+06/Mar/2025 18:41:31       Solver time: 0 hours, 0 min., 34 sec.
+06/Mar/2025 18:41:31  --------------------------------------------------------------------------
                       Parameter Values: 
                       
-                         Wp = 53.7025
-06/Mar/2025 13:08:42  
+                         Lp = 10
+                         Wp = 12.631579
+06/Mar/2025 18:41:32  
                       Structure update: Successful
-06/Mar/2025 13:13:43            Solver: Successful
-06/Mar/2025 13:13:43       Solver time: 0 hours, 5 min., 1 sec.
-06/Mar/2025 13:13:43  --------------------------------------------------------------------------
+06/Mar/2025 18:42:06            Solver: Successful
+06/Mar/2025 18:42:06       Solver time: 0 hours, 0 min., 34 sec.
+06/Mar/2025 18:42:06  --------------------------------------------------------------------------
                       Parameter Values: 
                       
-                         Wp = 49.135
-06/Mar/2025 13:13:45  
+                         Lp = 10
+                         Wp = 15.263158
+06/Mar/2025 18:42:07  
                       Structure update: Successful
-06/Mar/2025 13:18:58            Solver: Successful
-06/Mar/2025 13:18:58       Solver time: 0 hours, 5 min., 12 sec.
-06/Mar/2025 13:18:58  --------------------------------------------------------------------------
+06/Mar/2025 18:42:41            Solver: Successful
+06/Mar/2025 18:42:41       Solver time: 0 hours, 0 min., 34 sec.
+06/Mar/2025 18:42:41  --------------------------------------------------------------------------
                       Parameter Values: 
                       
-                         Wp = 44.5675
-06/Mar/2025 13:19:00  
+                         Lp = 10
+                         Wp = 17.894737
+06/Mar/2025 18:42:42  
                       Structure update: Successful
-06/Mar/2025 13:19:52            Solver: Aborted
-06/Mar/2025 13:19:52       Solver time: 0 hours, 0 min., 52 sec.
-06/Mar/2025 13:19:52  --------------------------------------------------------------------------
-06/Mar/2025 13:19:52  
+06/Mar/2025 18:43:16            Solver: Successful
+06/Mar/2025 18:43:16       Solver time: 0 hours, 0 min., 34 sec.
+06/Mar/2025 18:43:16  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 20.526316
+06/Mar/2025 18:43:17  
+                      Structure update: Successful
+06/Mar/2025 18:43:51            Solver: Successful
+06/Mar/2025 18:43:51       Solver time: 0 hours, 0 min., 34 sec.
+06/Mar/2025 18:43:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 23.157895
+06/Mar/2025 18:43:52  
+                      Structure update: Successful
+06/Mar/2025 18:44:26            Solver: Successful
+06/Mar/2025 18:44:26       Solver time: 0 hours, 0 min., 34 sec.
+06/Mar/2025 18:44:26  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 25.789474
+06/Mar/2025 18:44:27  
+                      Structure update: Successful
+06/Mar/2025 18:45:00            Solver: Successful
+06/Mar/2025 18:45:00       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 18:45:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 28.421053
+06/Mar/2025 18:45:01  
+                      Structure update: Successful
+06/Mar/2025 18:45:34            Solver: Successful
+06/Mar/2025 18:45:34       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 18:45:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 31.052632
+06/Mar/2025 18:45:35  
+                      Structure update: Successful
+06/Mar/2025 18:46:06            Solver: Successful
+06/Mar/2025 18:46:06       Solver time: 0 hours, 0 min., 31 sec.
+06/Mar/2025 18:46:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 33.684211
+06/Mar/2025 18:46:06  
+                      Structure update: Successful
+06/Mar/2025 18:46:37            Solver: Successful
+06/Mar/2025 18:46:37       Solver time: 0 hours, 0 min., 31 sec.
+06/Mar/2025 18:46:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 36.315789
+06/Mar/2025 18:46:38  
+                      Structure update: Successful
+06/Mar/2025 18:47:09            Solver: Successful
+06/Mar/2025 18:47:09       Solver time: 0 hours, 0 min., 31 sec.
+06/Mar/2025 18:47:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 38.947368
+06/Mar/2025 18:47:10  
+                      Structure update: Successful
+06/Mar/2025 18:47:40            Solver: Successful
+06/Mar/2025 18:47:40       Solver time: 0 hours, 0 min., 30 sec.
+06/Mar/2025 18:47:40  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 41.578947
+06/Mar/2025 18:47:41  
+                      Structure update: Successful
+06/Mar/2025 18:48:14            Solver: Successful
+06/Mar/2025 18:48:14       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 18:48:14  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 44.210526
+06/Mar/2025 18:48:15  
+                      Structure update: Successful
+06/Mar/2025 18:48:52            Solver: Successful
+06/Mar/2025 18:48:52       Solver time: 0 hours, 0 min., 37 sec.
+06/Mar/2025 18:48:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 46.842105
+06/Mar/2025 18:48:53  
+                      Structure update: Successful
+06/Mar/2025 18:49:35            Solver: Successful
+06/Mar/2025 18:49:35       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 18:49:35  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 49.473684
+06/Mar/2025 18:49:36  
+                      Structure update: Successful
+06/Mar/2025 18:50:21            Solver: Successful
+06/Mar/2025 18:50:21       Solver time: 0 hours, 0 min., 45 sec.
+06/Mar/2025 18:50:21  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 52.105263
+06/Mar/2025 18:50:22  
+                      Structure update: Successful
+06/Mar/2025 18:51:12            Solver: Successful
+06/Mar/2025 18:51:12       Solver time: 0 hours, 0 min., 50 sec.
+06/Mar/2025 18:51:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 54.736842
+06/Mar/2025 18:51:13  
+                      Structure update: Successful
+06/Mar/2025 18:52:09            Solver: Successful
+06/Mar/2025 18:52:09       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 18:52:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 57.368421
+06/Mar/2025 18:52:10  
+                      Structure update: Successful
+06/Mar/2025 18:53:06            Solver: Successful
+06/Mar/2025 18:53:06       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 18:53:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 10
+                         Wp = 60
+06/Mar/2025 18:53:07  
+                      Structure update: Successful
+06/Mar/2025 18:54:29            Solver: Successful
+06/Mar/2025 18:54:29       Solver time: 0 hours, 1 min., 22 sec.
+06/Mar/2025 18:54:29  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 10
+06/Mar/2025 18:54:30  
+                      Structure update: Successful
+06/Mar/2025 18:55:18            Solver: Successful
+06/Mar/2025 18:55:18       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 18:55:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 12.631579
+06/Mar/2025 18:55:20  
+                      Structure update: Successful
+06/Mar/2025 18:56:08            Solver: Successful
+06/Mar/2025 18:56:08       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 18:56:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 15.263158
+06/Mar/2025 18:56:10  
+                      Structure update: Successful
+06/Mar/2025 18:57:01            Solver: Successful
+06/Mar/2025 18:57:01       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 18:57:01  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 17.894737
+06/Mar/2025 18:57:02  
+                      Structure update: Successful
+06/Mar/2025 18:57:36            Solver: Successful
+06/Mar/2025 18:57:36       Solver time: 0 hours, 0 min., 34 sec.
+06/Mar/2025 18:57:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 20.526316
+06/Mar/2025 18:57:37  
+                      Structure update: Successful
+06/Mar/2025 18:58:12            Solver: Successful
+06/Mar/2025 18:58:12       Solver time: 0 hours, 0 min., 35 sec.
+06/Mar/2025 18:58:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 23.157895
+06/Mar/2025 18:58:13  
+                      Structure update: Successful
+06/Mar/2025 18:58:46            Solver: Successful
+06/Mar/2025 18:58:46       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 18:58:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 25.789474
+06/Mar/2025 18:58:47  
+                      Structure update: Successful
+06/Mar/2025 18:59:19            Solver: Successful
+06/Mar/2025 18:59:19       Solver time: 0 hours, 0 min., 32 sec.
+06/Mar/2025 18:59:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 28.421053
+06/Mar/2025 18:59:20  
+                      Structure update: Successful
+06/Mar/2025 18:59:51            Solver: Successful
+06/Mar/2025 18:59:51       Solver time: 0 hours, 0 min., 31 sec.
+06/Mar/2025 18:59:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 31.052632
+06/Mar/2025 18:59:52  
+                      Structure update: Successful
+06/Mar/2025 19:00:23            Solver: Successful
+06/Mar/2025 19:00:23       Solver time: 0 hours, 0 min., 31 sec.
+06/Mar/2025 19:00:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 33.684211
+06/Mar/2025 19:00:24  
+                      Structure update: Successful
+06/Mar/2025 19:00:56            Solver: Successful
+06/Mar/2025 19:00:56       Solver time: 0 hours, 0 min., 31 sec.
+06/Mar/2025 19:00:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 36.315789
+06/Mar/2025 19:00:57  
+                      Structure update: Successful
+06/Mar/2025 19:01:28            Solver: Successful
+06/Mar/2025 19:01:28       Solver time: 0 hours, 0 min., 31 sec.
+06/Mar/2025 19:01:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 38.947368
+06/Mar/2025 19:01:30  
+                      Structure update: Successful
+06/Mar/2025 19:02:02            Solver: Successful
+06/Mar/2025 19:02:02       Solver time: 0 hours, 0 min., 32 sec.
+06/Mar/2025 19:02:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 41.578947
+06/Mar/2025 19:02:04  
+                      Structure update: Successful
+06/Mar/2025 19:02:37            Solver: Successful
+06/Mar/2025 19:02:37       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 19:02:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 44.210526
+06/Mar/2025 19:02:38  
+                      Structure update: Successful
+06/Mar/2025 19:03:15            Solver: Successful
+06/Mar/2025 19:03:15       Solver time: 0 hours, 0 min., 37 sec.
+06/Mar/2025 19:03:15  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 46.842105
+06/Mar/2025 19:03:17  
+                      Structure update: Successful
+06/Mar/2025 19:03:56            Solver: Successful
+06/Mar/2025 19:03:56       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 19:03:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 49.473684
+06/Mar/2025 19:03:57  
+                      Structure update: Successful
+06/Mar/2025 19:04:40            Solver: Successful
+06/Mar/2025 19:04:40       Solver time: 0 hours, 0 min., 43 sec.
+06/Mar/2025 19:04:40  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 52.105263
+06/Mar/2025 19:04:42  
+                      Structure update: Successful
+06/Mar/2025 19:05:30            Solver: Successful
+06/Mar/2025 19:05:30       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 19:05:30  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 54.736842
+06/Mar/2025 19:05:33  
+                      Structure update: Successful
+06/Mar/2025 19:07:45            Solver: Successful
+06/Mar/2025 19:07:45       Solver time: 0 hours, 2 min., 12 sec.
+06/Mar/2025 19:07:45  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 57.368421
+06/Mar/2025 19:07:49  
+                      Structure update: Successful
+06/Mar/2025 19:10:05            Solver: Successful
+06/Mar/2025 19:10:05       Solver time: 0 hours, 2 min., 16 sec.
+06/Mar/2025 19:10:05  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 12.631579
+                         Wp = 60
+06/Mar/2025 19:10:07  
+                      Structure update: Successful
+06/Mar/2025 19:11:05            Solver: Successful
+06/Mar/2025 19:11:05       Solver time: 0 hours, 0 min., 58 sec.
+06/Mar/2025 19:11:05  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 10
+06/Mar/2025 19:11:07  
+                      Structure update: Successful
+06/Mar/2025 19:11:44            Solver: Successful
+06/Mar/2025 19:11:44       Solver time: 0 hours, 0 min., 37 sec.
+06/Mar/2025 19:11:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 12.631579
+06/Mar/2025 19:11:46  
+                      Structure update: Successful
+06/Mar/2025 19:12:23            Solver: Successful
+06/Mar/2025 19:12:23       Solver time: 0 hours, 0 min., 37 sec.
+06/Mar/2025 19:12:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 15.263158
+06/Mar/2025 19:12:25  
+                      Structure update: Successful
+06/Mar/2025 19:13:03            Solver: Successful
+06/Mar/2025 19:13:03       Solver time: 0 hours, 0 min., 38 sec.
+06/Mar/2025 19:13:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 17.894737
+06/Mar/2025 19:13:05  
+                      Structure update: Successful
+06/Mar/2025 19:13:43            Solver: Successful
+06/Mar/2025 19:13:43       Solver time: 0 hours, 0 min., 38 sec.
+06/Mar/2025 19:13:43  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 20.526316
+06/Mar/2025 19:13:45  
+                      Structure update: Successful
+06/Mar/2025 19:14:23            Solver: Successful
+06/Mar/2025 19:14:23       Solver time: 0 hours, 0 min., 38 sec.
+06/Mar/2025 19:14:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 23.157895
+06/Mar/2025 19:14:25  
+                      Structure update: Successful
+06/Mar/2025 19:15:20            Solver: Successful
+06/Mar/2025 19:15:20       Solver time: 0 hours, 0 min., 55 sec.
+06/Mar/2025 19:15:20  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 25.789474
+06/Mar/2025 19:15:24  
+                      Structure update: Successful
+06/Mar/2025 19:16:20            Solver: Successful
+06/Mar/2025 19:16:20       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 19:16:20  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 28.421053
+06/Mar/2025 19:16:23  
+                      Structure update: Successful
+06/Mar/2025 19:17:18            Solver: Successful
+06/Mar/2025 19:17:18       Solver time: 0 hours, 0 min., 55 sec.
+06/Mar/2025 19:17:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 31.052632
+06/Mar/2025 19:17:22  
+                      Structure update: Successful
+06/Mar/2025 19:18:17            Solver: Successful
+06/Mar/2025 19:18:17       Solver time: 0 hours, 0 min., 55 sec.
+06/Mar/2025 19:18:17  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 33.684211
+06/Mar/2025 19:18:21  
+                      Structure update: Successful
+06/Mar/2025 19:19:13            Solver: Successful
+06/Mar/2025 19:19:13       Solver time: 0 hours, 0 min., 52 sec.
+06/Mar/2025 19:19:13  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 36.315789
+06/Mar/2025 19:19:17  
+                      Structure update: Successful
+06/Mar/2025 19:20:10            Solver: Successful
+06/Mar/2025 19:20:10       Solver time: 0 hours, 0 min., 53 sec.
+06/Mar/2025 19:20:10  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 38.947368
+06/Mar/2025 19:20:13  
+                      Structure update: Successful
+06/Mar/2025 19:21:04            Solver: Successful
+06/Mar/2025 19:21:04       Solver time: 0 hours, 0 min., 50 sec.
+06/Mar/2025 19:21:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 41.578947
+06/Mar/2025 19:21:08  
+                      Structure update: Successful
+06/Mar/2025 19:22:03            Solver: Successful
+06/Mar/2025 19:22:03       Solver time: 0 hours, 0 min., 55 sec.
+06/Mar/2025 19:22:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 44.210526
+06/Mar/2025 19:22:06  
+                      Structure update: Successful
+06/Mar/2025 19:23:09            Solver: Successful
+06/Mar/2025 19:23:09       Solver time: 0 hours, 1 min., 2 sec.
+06/Mar/2025 19:23:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 46.842105
+06/Mar/2025 19:23:13  
+                      Structure update: Successful
+06/Mar/2025 19:24:28            Solver: Successful
+06/Mar/2025 19:24:28       Solver time: 0 hours, 1 min., 15 sec.
+06/Mar/2025 19:24:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 49.473684
+06/Mar/2025 19:24:31  
+                      Structure update: Successful
+06/Mar/2025 19:25:58            Solver: Successful
+06/Mar/2025 19:25:58       Solver time: 0 hours, 1 min., 27 sec.
+06/Mar/2025 19:25:58  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 52.105263
+06/Mar/2025 19:26:01  
+                      Structure update: Successful
+06/Mar/2025 19:27:42            Solver: Successful
+06/Mar/2025 19:27:42       Solver time: 0 hours, 1 min., 41 sec.
+06/Mar/2025 19:27:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 54.736842
+06/Mar/2025 19:27:46  
+                      Structure update: Successful
+06/Mar/2025 19:29:49            Solver: Successful
+06/Mar/2025 19:29:49       Solver time: 0 hours, 2 min., 3 sec.
+06/Mar/2025 19:29:49  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 57.368421
+06/Mar/2025 19:29:53  
+                      Structure update: Successful
+06/Mar/2025 19:32:17            Solver: Successful
+06/Mar/2025 19:32:17       Solver time: 0 hours, 2 min., 24 sec.
+06/Mar/2025 19:32:17  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 15.263158
+                         Wp = 60
+06/Mar/2025 19:32:21  
+                      Structure update: Successful
+06/Mar/2025 19:34:46            Solver: Successful
+06/Mar/2025 19:34:46       Solver time: 0 hours, 2 min., 25 sec.
+06/Mar/2025 19:34:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 10
+06/Mar/2025 19:34:50  
+                      Structure update: Successful
+06/Mar/2025 19:35:47            Solver: Successful
+06/Mar/2025 19:35:47       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 19:35:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 12.631579
+06/Mar/2025 19:35:51  
+                      Structure update: Successful
+06/Mar/2025 19:36:48            Solver: Successful
+06/Mar/2025 19:36:48       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 19:36:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 15.263158
+06/Mar/2025 19:36:52  
+                      Structure update: Successful
+06/Mar/2025 19:37:52            Solver: Successful
+06/Mar/2025 19:37:52       Solver time: 0 hours, 1 min., 0 sec.
+06/Mar/2025 19:37:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 17.894737
+06/Mar/2025 19:37:55  
+                      Structure update: Successful
+06/Mar/2025 19:38:54            Solver: Successful
+06/Mar/2025 19:38:54       Solver time: 0 hours, 0 min., 59 sec.
+06/Mar/2025 19:38:54  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 20.526316
+06/Mar/2025 19:38:57  
+                      Structure update: Successful
+06/Mar/2025 19:39:58            Solver: Successful
+06/Mar/2025 19:39:58       Solver time: 0 hours, 1 min., 1 sec.
+06/Mar/2025 19:39:58  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 23.157895
+06/Mar/2025 19:40:01  
+                      Structure update: Successful
+06/Mar/2025 19:41:01            Solver: Successful
+06/Mar/2025 19:41:01       Solver time: 0 hours, 0 min., 59 sec.
+06/Mar/2025 19:41:01  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 25.789474
+06/Mar/2025 19:41:05  
+                      Structure update: Successful
+06/Mar/2025 19:42:04            Solver: Successful
+06/Mar/2025 19:42:04       Solver time: 0 hours, 0 min., 59 sec.
+06/Mar/2025 19:42:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 28.421053
+06/Mar/2025 19:42:07  
+                      Structure update: Successful
+06/Mar/2025 19:43:07            Solver: Successful
+06/Mar/2025 19:43:07       Solver time: 0 hours, 1 min., 0 sec.
+06/Mar/2025 19:43:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 31.052632
+06/Mar/2025 19:43:10  
+                      Structure update: Successful
+06/Mar/2025 19:44:09            Solver: Successful
+06/Mar/2025 19:44:09       Solver time: 0 hours, 0 min., 59 sec.
+06/Mar/2025 19:44:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 33.684211
+06/Mar/2025 19:44:11  
+                      Structure update: Successful
+06/Mar/2025 19:45:05            Solver: Successful
+06/Mar/2025 19:45:05       Solver time: 0 hours, 0 min., 54 sec.
+06/Mar/2025 19:45:05  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 36.315789
+06/Mar/2025 19:45:09  
+                      Structure update: Successful
+06/Mar/2025 19:46:03            Solver: Successful
+06/Mar/2025 19:46:03       Solver time: 0 hours, 0 min., 54 sec.
+06/Mar/2025 19:46:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 38.947368
+06/Mar/2025 19:46:06  
+                      Structure update: Successful
+06/Mar/2025 19:46:59            Solver: Successful
+06/Mar/2025 19:46:59       Solver time: 0 hours, 0 min., 53 sec.
+06/Mar/2025 19:46:59  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 41.578947
+06/Mar/2025 19:47:02  
+                      Structure update: Successful
+06/Mar/2025 19:47:58            Solver: Successful
+06/Mar/2025 19:47:58       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 19:47:58  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 44.210526
+06/Mar/2025 19:48:01  
+                      Structure update: Successful
+06/Mar/2025 19:49:05            Solver: Successful
+06/Mar/2025 19:49:05       Solver time: 0 hours, 1 min., 4 sec.
+06/Mar/2025 19:49:05  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 46.842105
+06/Mar/2025 19:49:09  
+                      Structure update: Successful
+06/Mar/2025 19:50:21            Solver: Successful
+06/Mar/2025 19:50:21       Solver time: 0 hours, 1 min., 12 sec.
+06/Mar/2025 19:50:21  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 49.473684
+06/Mar/2025 19:50:24  
+                      Structure update: Successful
+06/Mar/2025 19:51:47            Solver: Successful
+06/Mar/2025 19:51:47       Solver time: 0 hours, 1 min., 23 sec.
+06/Mar/2025 19:51:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 52.105263
+06/Mar/2025 19:51:50  
+                      Structure update: Successful
+06/Mar/2025 19:53:30            Solver: Successful
+06/Mar/2025 19:53:30       Solver time: 0 hours, 1 min., 40 sec.
+06/Mar/2025 19:53:30  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 54.736842
+06/Mar/2025 19:53:34  
+                      Structure update: Successful
+06/Mar/2025 19:55:31            Solver: Successful
+06/Mar/2025 19:55:31       Solver time: 0 hours, 1 min., 57 sec.
+06/Mar/2025 19:55:31  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 57.368421
+06/Mar/2025 19:55:35  
+                      Structure update: Successful
+06/Mar/2025 19:57:59            Solver: Successful
+06/Mar/2025 19:57:59       Solver time: 0 hours, 2 min., 24 sec.
+06/Mar/2025 19:57:59  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 17.894737
+                         Wp = 60
+06/Mar/2025 19:58:02  
+                      Structure update: Successful
+06/Mar/2025 19:59:11            Solver: Successful
+06/Mar/2025 19:59:11       Solver time: 0 hours, 1 min., 9 sec.
+06/Mar/2025 19:59:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 10
+06/Mar/2025 19:59:12  
+                      Structure update: Successful
+06/Mar/2025 20:00:05            Solver: Successful
+06/Mar/2025 20:00:05       Solver time: 0 hours, 0 min., 53 sec.
+06/Mar/2025 20:00:05  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 12.631579
+06/Mar/2025 20:00:06  
+                      Structure update: Successful
+06/Mar/2025 20:00:59            Solver: Successful
+06/Mar/2025 20:00:59       Solver time: 0 hours, 0 min., 53 sec.
+06/Mar/2025 20:00:59  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 15.263158
+06/Mar/2025 20:01:00  
+                      Structure update: Successful
+06/Mar/2025 20:01:56            Solver: Successful
+06/Mar/2025 20:01:56       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 20:01:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 17.894737
+06/Mar/2025 20:01:58  
+                      Structure update: Successful
+06/Mar/2025 20:02:54            Solver: Successful
+06/Mar/2025 20:02:54       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 20:02:54  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 20.526316
+06/Mar/2025 20:02:56  
+                      Structure update: Successful
+06/Mar/2025 20:03:52            Solver: Successful
+06/Mar/2025 20:03:52       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 20:03:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 23.157895
+06/Mar/2025 20:03:54  
+                      Structure update: Successful
+06/Mar/2025 20:04:51            Solver: Successful
+06/Mar/2025 20:04:51       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 20:04:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 25.789474
+06/Mar/2025 20:04:52  
+                      Structure update: Successful
+06/Mar/2025 20:05:48            Solver: Successful
+06/Mar/2025 20:05:48       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 20:05:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 28.421053
+06/Mar/2025 20:05:49  
+                      Structure update: Successful
+06/Mar/2025 20:06:42            Solver: Successful
+06/Mar/2025 20:06:42       Solver time: 0 hours, 0 min., 53 sec.
+06/Mar/2025 20:06:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 31.052632
+06/Mar/2025 20:06:44  
+                      Structure update: Successful
+06/Mar/2025 20:07:38            Solver: Successful
+06/Mar/2025 20:07:38       Solver time: 0 hours, 0 min., 54 sec.
+06/Mar/2025 20:07:38  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 33.684211
+06/Mar/2025 20:07:40  
+                      Structure update: Successful
+06/Mar/2025 20:08:34            Solver: Successful
+06/Mar/2025 20:08:34       Solver time: 0 hours, 0 min., 54 sec.
+06/Mar/2025 20:08:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 36.315789
+06/Mar/2025 20:08:35  
+                      Structure update: Successful
+06/Mar/2025 20:09:07            Solver: Successful
+06/Mar/2025 20:09:07       Solver time: 0 hours, 0 min., 32 sec.
+06/Mar/2025 20:09:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 38.947368
+06/Mar/2025 20:09:08  
+                      Structure update: Successful
+06/Mar/2025 20:09:41            Solver: Successful
+06/Mar/2025 20:09:41       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 20:09:41  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 41.578947
+06/Mar/2025 20:09:42  
+                      Structure update: Successful
+06/Mar/2025 20:10:15            Solver: Successful
+06/Mar/2025 20:10:15       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 20:10:15  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 44.210526
+06/Mar/2025 20:10:16  
+                      Structure update: Successful
+06/Mar/2025 20:10:50            Solver: Successful
+06/Mar/2025 20:10:50       Solver time: 0 hours, 0 min., 34 sec.
+06/Mar/2025 20:10:50  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 46.842105
+06/Mar/2025 20:10:51  
+                      Structure update: Successful
+06/Mar/2025 20:11:28            Solver: Successful
+06/Mar/2025 20:11:28       Solver time: 0 hours, 0 min., 37 sec.
+06/Mar/2025 20:11:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 49.473684
+06/Mar/2025 20:11:29  
+                      Structure update: Successful
+06/Mar/2025 20:12:07            Solver: Successful
+06/Mar/2025 20:12:07       Solver time: 0 hours, 0 min., 38 sec.
+06/Mar/2025 20:12:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 52.105263
+06/Mar/2025 20:12:08  
+                      Structure update: Successful
+06/Mar/2025 20:12:51            Solver: Successful
+06/Mar/2025 20:12:51       Solver time: 0 hours, 0 min., 43 sec.
+06/Mar/2025 20:12:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 54.736842
+06/Mar/2025 20:12:52  
+                      Structure update: Successful
+06/Mar/2025 20:13:39            Solver: Successful
+06/Mar/2025 20:13:39       Solver time: 0 hours, 0 min., 47 sec.
+06/Mar/2025 20:13:39  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 57.368421
+06/Mar/2025 20:13:40  
+                      Structure update: Successful
+06/Mar/2025 20:14:33            Solver: Successful
+06/Mar/2025 20:14:33       Solver time: 0 hours, 0 min., 53 sec.
+06/Mar/2025 20:14:33  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 20.526316
+                         Wp = 60
+06/Mar/2025 20:14:34  
+                      Structure update: Successful
+06/Mar/2025 20:15:31            Solver: Successful
+06/Mar/2025 20:15:31       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 20:15:31  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 10
+06/Mar/2025 20:15:32  
+                      Structure update: Successful
+06/Mar/2025 20:16:07            Solver: Successful
+06/Mar/2025 20:16:07       Solver time: 0 hours, 0 min., 35 sec.
+06/Mar/2025 20:16:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 12.631579
+06/Mar/2025 20:16:08  
+                      Structure update: Successful
+06/Mar/2025 20:16:44            Solver: Successful
+06/Mar/2025 20:16:44       Solver time: 0 hours, 0 min., 36 sec.
+06/Mar/2025 20:16:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 15.263158
+06/Mar/2025 20:16:45  
+                      Structure update: Successful
+06/Mar/2025 20:17:22            Solver: Successful
+06/Mar/2025 20:17:22       Solver time: 0 hours, 0 min., 37 sec.
+06/Mar/2025 20:17:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 17.894737
+06/Mar/2025 20:17:23  
+                      Structure update: Successful
+06/Mar/2025 20:17:59            Solver: Successful
+06/Mar/2025 20:17:59       Solver time: 0 hours, 0 min., 36 sec.
+06/Mar/2025 20:17:59  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 20.526316
+06/Mar/2025 20:18:00  
+                      Structure update: Successful
+06/Mar/2025 20:18:36            Solver: Successful
+06/Mar/2025 20:18:36       Solver time: 0 hours, 0 min., 36 sec.
+06/Mar/2025 20:18:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 23.157895
+06/Mar/2025 20:18:37  
+                      Structure update: Successful
+06/Mar/2025 20:19:14            Solver: Successful
+06/Mar/2025 20:19:14       Solver time: 0 hours, 0 min., 37 sec.
+06/Mar/2025 20:19:14  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 25.789474
+06/Mar/2025 20:19:15  
+                      Structure update: Successful
+06/Mar/2025 20:19:51            Solver: Successful
+06/Mar/2025 20:19:51       Solver time: 0 hours, 0 min., 35 sec.
+06/Mar/2025 20:19:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 28.421053
+06/Mar/2025 20:19:52  
+                      Structure update: Successful
+06/Mar/2025 20:20:27            Solver: Successful
+06/Mar/2025 20:20:27       Solver time: 0 hours, 0 min., 35 sec.
+06/Mar/2025 20:20:27  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 31.052632
+06/Mar/2025 20:20:28  
+                      Structure update: Successful
+06/Mar/2025 20:21:02            Solver: Successful
+06/Mar/2025 20:21:02       Solver time: 0 hours, 0 min., 34 sec.
+06/Mar/2025 20:21:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 33.684211
+06/Mar/2025 20:21:03  
+                      Structure update: Successful
+06/Mar/2025 20:21:38            Solver: Successful
+06/Mar/2025 20:21:38       Solver time: 0 hours, 0 min., 35 sec.
+06/Mar/2025 20:21:38  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 36.315789
+06/Mar/2025 20:21:39  
+                      Structure update: Successful
+06/Mar/2025 20:22:12            Solver: Successful
+06/Mar/2025 20:22:12       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 20:22:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 38.947368
+06/Mar/2025 20:22:13  
+                      Structure update: Successful
+06/Mar/2025 20:22:46            Solver: Successful
+06/Mar/2025 20:22:46       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 20:22:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 41.578947
+06/Mar/2025 20:22:47  
+                      Structure update: Successful
+06/Mar/2025 20:23:20            Solver: Successful
+06/Mar/2025 20:23:20       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 20:23:20  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 44.210526
+06/Mar/2025 20:23:21  
+                      Structure update: Successful
+06/Mar/2025 20:23:55            Solver: Successful
+06/Mar/2025 20:23:55       Solver time: 0 hours, 0 min., 33 sec.
+06/Mar/2025 20:23:55  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 46.842105
+06/Mar/2025 20:23:56  
+                      Structure update: Successful
+06/Mar/2025 20:24:31            Solver: Successful
+06/Mar/2025 20:24:31       Solver time: 0 hours, 0 min., 35 sec.
+06/Mar/2025 20:24:31  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 49.473684
+06/Mar/2025 20:24:32  
+                      Structure update: Successful
+06/Mar/2025 20:25:11            Solver: Successful
+06/Mar/2025 20:25:11       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 20:25:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 52.105263
+06/Mar/2025 20:25:12  
+                      Structure update: Successful
+06/Mar/2025 20:25:53            Solver: Successful
+06/Mar/2025 20:25:53       Solver time: 0 hours, 0 min., 41 sec.
+06/Mar/2025 20:25:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 54.736842
+06/Mar/2025 20:25:54  
+                      Structure update: Successful
+06/Mar/2025 20:26:40            Solver: Successful
+06/Mar/2025 20:26:40       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 20:26:40  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 57.368421
+06/Mar/2025 20:26:41  
+                      Structure update: Successful
+06/Mar/2025 20:27:32            Solver: Successful
+06/Mar/2025 20:27:32       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 20:27:32  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 23.157895
+                         Wp = 60
+06/Mar/2025 20:27:33  
+                      Structure update: Successful
+06/Mar/2025 20:28:30            Solver: Successful
+06/Mar/2025 20:28:30       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 20:28:30  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 10
+06/Mar/2025 20:28:31  
+                      Structure update: Successful
+06/Mar/2025 20:29:07            Solver: Successful
+06/Mar/2025 20:29:07       Solver time: 0 hours, 0 min., 36 sec.
+06/Mar/2025 20:29:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 12.631579
+06/Mar/2025 20:29:08  
+                      Structure update: Successful
+06/Mar/2025 20:29:44            Solver: Successful
+06/Mar/2025 20:29:44       Solver time: 0 hours, 0 min., 36 sec.
+06/Mar/2025 20:29:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 15.263158
+06/Mar/2025 20:29:45  
+                      Structure update: Successful
+06/Mar/2025 20:30:22            Solver: Successful
+06/Mar/2025 20:30:22       Solver time: 0 hours, 0 min., 36 sec.
+06/Mar/2025 20:30:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 17.894737
+06/Mar/2025 20:30:23  
+                      Structure update: Successful
+06/Mar/2025 20:31:01            Solver: Successful
+06/Mar/2025 20:31:01       Solver time: 0 hours, 0 min., 37 sec.
+06/Mar/2025 20:31:01  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 20.526316
+06/Mar/2025 20:31:02  
+                      Structure update: Successful
+06/Mar/2025 20:32:04            Solver: Successful
+06/Mar/2025 20:32:04       Solver time: 0 hours, 1 min., 2 sec.
+06/Mar/2025 20:32:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 23.157895
+06/Mar/2025 20:32:05  
+                      Structure update: Successful
+06/Mar/2025 20:33:07            Solver: Successful
+06/Mar/2025 20:33:07       Solver time: 0 hours, 1 min., 2 sec.
+06/Mar/2025 20:33:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 25.789474
+06/Mar/2025 20:33:08  
+                      Structure update: Successful
+06/Mar/2025 20:34:09            Solver: Successful
+06/Mar/2025 20:34:09       Solver time: 0 hours, 1 min., 1 sec.
+06/Mar/2025 20:34:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 28.421053
+06/Mar/2025 20:34:11  
+                      Structure update: Successful
+06/Mar/2025 20:35:09            Solver: Successful
+06/Mar/2025 20:35:09       Solver time: 0 hours, 0 min., 58 sec.
+06/Mar/2025 20:35:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 31.052632
+06/Mar/2025 20:35:10  
+                      Structure update: Successful
+06/Mar/2025 20:36:09            Solver: Successful
+06/Mar/2025 20:36:09       Solver time: 0 hours, 0 min., 59 sec.
+06/Mar/2025 20:36:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 33.684211
+06/Mar/2025 20:36:10  
+                      Structure update: Successful
+06/Mar/2025 20:37:08            Solver: Successful
+06/Mar/2025 20:37:08       Solver time: 0 hours, 0 min., 58 sec.
+06/Mar/2025 20:37:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 36.315789
+06/Mar/2025 20:37:09  
+                      Structure update: Successful
+06/Mar/2025 20:38:08            Solver: Successful
+06/Mar/2025 20:38:08       Solver time: 0 hours, 0 min., 59 sec.
+06/Mar/2025 20:38:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 38.947368
+06/Mar/2025 20:38:09  
+                      Structure update: Successful
+06/Mar/2025 20:39:03            Solver: Successful
+06/Mar/2025 20:39:03       Solver time: 0 hours, 0 min., 54 sec.
+06/Mar/2025 20:39:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 41.578947
+06/Mar/2025 20:39:04  
+                      Structure update: Successful
+06/Mar/2025 20:40:01            Solver: Successful
+06/Mar/2025 20:40:01       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 20:40:01  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 44.210526
+06/Mar/2025 20:40:02  
+                      Structure update: Successful
+06/Mar/2025 20:40:59            Solver: Successful
+06/Mar/2025 20:40:59       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 20:40:59  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 46.842105
+06/Mar/2025 20:41:01  
+                      Structure update: Successful
+06/Mar/2025 20:41:57            Solver: Successful
+06/Mar/2025 20:41:57       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 20:41:57  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 49.473684
+06/Mar/2025 20:41:58  
+                      Structure update: Successful
+06/Mar/2025 20:43:03            Solver: Successful
+06/Mar/2025 20:43:03       Solver time: 0 hours, 1 min., 5 sec.
+06/Mar/2025 20:43:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 52.105263
+06/Mar/2025 20:43:04  
+                      Structure update: Successful
+06/Mar/2025 20:44:23            Solver: Successful
+06/Mar/2025 20:44:23       Solver time: 0 hours, 1 min., 19 sec.
+06/Mar/2025 20:44:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 54.736842
+06/Mar/2025 20:44:25  
+                      Structure update: Successful
+06/Mar/2025 20:46:00            Solver: Successful
+06/Mar/2025 20:46:00       Solver time: 0 hours, 1 min., 35 sec.
+06/Mar/2025 20:46:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 57.368421
+06/Mar/2025 20:46:02  
+                      Structure update: Successful
+06/Mar/2025 20:47:55            Solver: Successful
+06/Mar/2025 20:47:55       Solver time: 0 hours, 1 min., 53 sec.
+06/Mar/2025 20:47:55  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 25.789474
+                         Wp = 60
+06/Mar/2025 20:47:56  
+                      Structure update: Successful
+06/Mar/2025 20:50:19            Solver: Successful
+06/Mar/2025 20:50:19       Solver time: 0 hours, 2 min., 23 sec.
+06/Mar/2025 20:50:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 10
+06/Mar/2025 20:50:20  
+                      Structure update: Successful
+06/Mar/2025 20:51:18            Solver: Successful
+06/Mar/2025 20:51:18       Solver time: 0 hours, 0 min., 58 sec.
+06/Mar/2025 20:51:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 12.631579
+06/Mar/2025 20:51:20  
+                      Structure update: Successful
+06/Mar/2025 20:52:21            Solver: Successful
+06/Mar/2025 20:52:21       Solver time: 0 hours, 1 min., 1 sec.
+06/Mar/2025 20:52:21  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 15.263158
+06/Mar/2025 20:52:22  
+                      Structure update: Successful
+06/Mar/2025 20:53:26            Solver: Successful
+06/Mar/2025 20:53:26       Solver time: 0 hours, 1 min., 4 sec.
+06/Mar/2025 20:53:26  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 17.894737
+06/Mar/2025 20:53:27  
+                      Structure update: Successful
+06/Mar/2025 20:54:31            Solver: Successful
+06/Mar/2025 20:54:31       Solver time: 0 hours, 1 min., 4 sec.
+06/Mar/2025 20:54:31  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 20.526316
+06/Mar/2025 20:54:33  
+                      Structure update: Successful
+06/Mar/2025 20:55:39            Solver: Successful
+06/Mar/2025 20:55:39       Solver time: 0 hours, 1 min., 6 sec.
+06/Mar/2025 20:55:39  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 23.157895
+06/Mar/2025 20:55:41  
+                      Structure update: Successful
+06/Mar/2025 20:56:47            Solver: Successful
+06/Mar/2025 20:56:47       Solver time: 0 hours, 1 min., 6 sec.
+06/Mar/2025 20:56:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 25.789474
+06/Mar/2025 20:56:49  
+                      Structure update: Successful
+06/Mar/2025 20:57:52            Solver: Successful
+06/Mar/2025 20:57:52       Solver time: 0 hours, 1 min., 3 sec.
+06/Mar/2025 20:57:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 28.421053
+06/Mar/2025 20:57:53  
+                      Structure update: Successful
+06/Mar/2025 20:58:59            Solver: Successful
+06/Mar/2025 20:58:59       Solver time: 0 hours, 1 min., 6 sec.
+06/Mar/2025 20:58:59  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 31.052632
+06/Mar/2025 20:59:01  
+                      Structure update: Successful
+06/Mar/2025 21:00:05            Solver: Successful
+06/Mar/2025 21:00:05       Solver time: 0 hours, 1 min., 4 sec.
+06/Mar/2025 21:00:05  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 33.684211
+06/Mar/2025 21:00:07  
+                      Structure update: Successful
+06/Mar/2025 21:00:47            Solver: Successful
+06/Mar/2025 21:00:47       Solver time: 0 hours, 0 min., 40 sec.
+06/Mar/2025 21:00:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 36.315789
+06/Mar/2025 21:00:48  
+                      Structure update: Successful
+06/Mar/2025 21:01:26            Solver: Successful
+06/Mar/2025 21:01:26       Solver time: 0 hours, 0 min., 38 sec.
+06/Mar/2025 21:01:26  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 38.947368
+06/Mar/2025 21:01:27  
+                      Structure update: Successful
+06/Mar/2025 21:02:24            Solver: Successful
+06/Mar/2025 21:02:24       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 21:02:24  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 41.578947
+06/Mar/2025 21:02:25  
+                      Structure update: Successful
+06/Mar/2025 21:03:25            Solver: Successful
+06/Mar/2025 21:03:25       Solver time: 0 hours, 1 min., 0 sec.
+06/Mar/2025 21:03:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 44.210526
+06/Mar/2025 21:03:27  
+                      Structure update: Successful
+06/Mar/2025 21:04:27            Solver: Successful
+06/Mar/2025 21:04:27       Solver time: 0 hours, 1 min., 0 sec.
+06/Mar/2025 21:04:27  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 46.842105
+06/Mar/2025 21:04:28  
+                      Structure update: Successful
+06/Mar/2025 21:05:27            Solver: Successful
+06/Mar/2025 21:05:27       Solver time: 0 hours, 0 min., 59 sec.
+06/Mar/2025 21:05:27  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 49.473684
+06/Mar/2025 21:05:28  
+                      Structure update: Successful
+06/Mar/2025 21:06:31            Solver: Successful
+06/Mar/2025 21:06:31       Solver time: 0 hours, 1 min., 3 sec.
+06/Mar/2025 21:06:31  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 52.105263
+06/Mar/2025 21:06:32  
+                      Structure update: Successful
+06/Mar/2025 21:07:46            Solver: Successful
+06/Mar/2025 21:07:46       Solver time: 0 hours, 1 min., 14 sec.
+06/Mar/2025 21:07:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 54.736842
+06/Mar/2025 21:07:47  
+                      Structure update: Successful
+06/Mar/2025 21:09:14            Solver: Successful
+06/Mar/2025 21:09:14       Solver time: 0 hours, 1 min., 27 sec.
+06/Mar/2025 21:09:14  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 57.368421
+06/Mar/2025 21:09:15  
+                      Structure update: Successful
+06/Mar/2025 21:11:02            Solver: Successful
+06/Mar/2025 21:11:02       Solver time: 0 hours, 1 min., 47 sec.
+06/Mar/2025 21:11:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 28.421053
+                         Wp = 60
+06/Mar/2025 21:11:04  
+                      Structure update: Successful
+06/Mar/2025 21:13:19            Solver: Successful
+06/Mar/2025 21:13:19       Solver time: 0 hours, 2 min., 15 sec.
+06/Mar/2025 21:13:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 10
+06/Mar/2025 21:13:21  
+                      Structure update: Successful
+06/Mar/2025 21:14:23            Solver: Successful
+06/Mar/2025 21:14:23       Solver time: 0 hours, 1 min., 2 sec.
+06/Mar/2025 21:14:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 12.631579
+06/Mar/2025 21:14:25  
+                      Structure update: Successful
+06/Mar/2025 21:15:29            Solver: Successful
+06/Mar/2025 21:15:29       Solver time: 0 hours, 1 min., 4 sec.
+06/Mar/2025 21:15:29  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 15.263158
+06/Mar/2025 21:15:30  
+                      Structure update: Successful
+06/Mar/2025 21:16:38            Solver: Successful
+06/Mar/2025 21:16:38       Solver time: 0 hours, 1 min., 8 sec.
+06/Mar/2025 21:16:38  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 17.894737
+06/Mar/2025 21:16:39  
+                      Structure update: Successful
+06/Mar/2025 21:17:49            Solver: Successful
+06/Mar/2025 21:17:49       Solver time: 0 hours, 1 min., 10 sec.
+06/Mar/2025 21:17:49  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 20.526316
+06/Mar/2025 21:17:50  
+                      Structure update: Successful
+06/Mar/2025 21:19:00            Solver: Successful
+06/Mar/2025 21:19:00       Solver time: 0 hours, 1 min., 10 sec.
+06/Mar/2025 21:19:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 23.157895
+06/Mar/2025 21:19:01  
+                      Structure update: Successful
+06/Mar/2025 21:20:11            Solver: Successful
+06/Mar/2025 21:20:11       Solver time: 0 hours, 1 min., 10 sec.
+06/Mar/2025 21:20:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 25.789474
+06/Mar/2025 21:20:12  
+                      Structure update: Successful
+06/Mar/2025 21:21:22            Solver: Successful
+06/Mar/2025 21:21:22       Solver time: 0 hours, 1 min., 10 sec.
+06/Mar/2025 21:21:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 28.421053
+06/Mar/2025 21:21:23  
+                      Structure update: Successful
+06/Mar/2025 21:22:17            Solver: Successful
+06/Mar/2025 21:22:17       Solver time: 0 hours, 0 min., 54 sec.
+06/Mar/2025 21:22:17  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 31.052632
+06/Mar/2025 21:22:19  
+                      Structure update: Successful
+06/Mar/2025 21:22:58            Solver: Successful
+06/Mar/2025 21:22:58       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 21:22:58  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 33.684211
+06/Mar/2025 21:23:00  
+                      Structure update: Successful
+06/Mar/2025 21:23:40            Solver: Successful
+06/Mar/2025 21:23:40       Solver time: 0 hours, 0 min., 40 sec.
+06/Mar/2025 21:23:40  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 36.315789
+06/Mar/2025 21:23:42  
+                      Structure update: Successful
+06/Mar/2025 21:24:21            Solver: Successful
+06/Mar/2025 21:24:21       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 21:24:21  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 38.947368
+06/Mar/2025 21:24:23  
+                      Structure update: Successful
+06/Mar/2025 21:25:01            Solver: Successful
+06/Mar/2025 21:25:01       Solver time: 0 hours, 0 min., 38 sec.
+06/Mar/2025 21:25:01  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 41.578947
+06/Mar/2025 21:25:03  
+                      Structure update: Successful
+06/Mar/2025 21:25:43            Solver: Successful
+06/Mar/2025 21:25:43       Solver time: 0 hours, 0 min., 40 sec.
+06/Mar/2025 21:25:43  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 44.210526
+06/Mar/2025 21:25:45  
+                      Structure update: Successful
+06/Mar/2025 21:26:24            Solver: Successful
+06/Mar/2025 21:26:24       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 21:26:24  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 46.842105
+06/Mar/2025 21:26:27  
+                      Structure update: Successful
+06/Mar/2025 21:27:06            Solver: Successful
+06/Mar/2025 21:27:06       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 21:27:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 49.473684
+06/Mar/2025 21:27:08  
+                      Structure update: Successful
+06/Mar/2025 21:27:47            Solver: Successful
+06/Mar/2025 21:27:47       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 21:27:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 52.105263
+06/Mar/2025 21:27:50  
+                      Structure update: Successful
+06/Mar/2025 21:28:31            Solver: Successful
+06/Mar/2025 21:28:31       Solver time: 0 hours, 0 min., 41 sec.
+06/Mar/2025 21:28:31  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 54.736842
+06/Mar/2025 21:28:33  
+                      Structure update: Successful
+06/Mar/2025 21:29:17            Solver: Successful
+06/Mar/2025 21:29:17       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 21:29:17  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 57.368421
+06/Mar/2025 21:29:20  
+                      Structure update: Successful
+06/Mar/2025 21:30:08            Solver: Successful
+06/Mar/2025 21:30:08       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 21:30:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 31.052632
+                         Wp = 60
+06/Mar/2025 21:30:10  
+                      Structure update: Successful
+06/Mar/2025 21:31:06            Solver: Successful
+06/Mar/2025 21:31:06       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 21:31:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 10
+06/Mar/2025 21:31:08  
+                      Structure update: Successful
+06/Mar/2025 21:31:50            Solver: Successful
+06/Mar/2025 21:31:50       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 21:31:50  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 12.631579
+06/Mar/2025 21:31:52  
+                      Structure update: Successful
+06/Mar/2025 21:32:34            Solver: Successful
+06/Mar/2025 21:32:34       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 21:32:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 15.263158
+06/Mar/2025 21:32:37  
+                      Structure update: Successful
+06/Mar/2025 21:33:20            Solver: Successful
+06/Mar/2025 21:33:20       Solver time: 0 hours, 0 min., 43 sec.
+06/Mar/2025 21:33:20  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 17.894737
+06/Mar/2025 21:33:22  
+                      Structure update: Successful
+06/Mar/2025 21:34:04            Solver: Successful
+06/Mar/2025 21:34:04       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 21:34:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 20.526316
+06/Mar/2025 21:34:06  
+                      Structure update: Successful
+06/Mar/2025 21:34:50            Solver: Successful
+06/Mar/2025 21:34:50       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 21:34:50  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 23.157895
+06/Mar/2025 21:34:52  
+                      Structure update: Successful
+06/Mar/2025 21:35:36            Solver: Successful
+06/Mar/2025 21:35:36       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 21:35:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 25.789474
+06/Mar/2025 21:35:38  
+                      Structure update: Successful
+06/Mar/2025 21:36:20            Solver: Successful
+06/Mar/2025 21:36:20       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 21:36:20  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 28.421053
+06/Mar/2025 21:36:23  
+                      Structure update: Successful
+06/Mar/2025 21:37:04            Solver: Successful
+06/Mar/2025 21:37:04       Solver time: 0 hours, 0 min., 41 sec.
+06/Mar/2025 21:37:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 31.052632
+06/Mar/2025 21:37:06  
+                      Structure update: Successful
+06/Mar/2025 21:37:50            Solver: Successful
+06/Mar/2025 21:37:50       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 21:37:50  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 33.684211
+06/Mar/2025 21:37:53  
+                      Structure update: Successful
+06/Mar/2025 21:38:34            Solver: Successful
+06/Mar/2025 21:38:34       Solver time: 0 hours, 0 min., 41 sec.
+06/Mar/2025 21:38:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 36.315789
+06/Mar/2025 21:38:36  
+                      Structure update: Successful
+06/Mar/2025 21:39:16            Solver: Successful
+06/Mar/2025 21:39:16       Solver time: 0 hours, 0 min., 40 sec.
+06/Mar/2025 21:39:16  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 38.947368
+06/Mar/2025 21:39:18  
+                      Structure update: Successful
+06/Mar/2025 21:39:57            Solver: Successful
+06/Mar/2025 21:39:57       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 21:39:57  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 41.578947
+06/Mar/2025 21:39:59  
+                      Structure update: Successful
+06/Mar/2025 21:40:38            Solver: Successful
+06/Mar/2025 21:40:38       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 21:40:38  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 44.210526
+06/Mar/2025 21:40:41  
+                      Structure update: Successful
+06/Mar/2025 21:41:20            Solver: Successful
+06/Mar/2025 21:41:20       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 21:41:20  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 46.842105
+06/Mar/2025 21:41:23  
+                      Structure update: Successful
+06/Mar/2025 21:42:02            Solver: Successful
+06/Mar/2025 21:42:02       Solver time: 0 hours, 0 min., 39 sec.
+06/Mar/2025 21:42:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 49.473684
+06/Mar/2025 21:42:04  
+                      Structure update: Successful
+06/Mar/2025 21:42:44            Solver: Successful
+06/Mar/2025 21:42:44       Solver time: 0 hours, 0 min., 40 sec.
+06/Mar/2025 21:42:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 52.105263
+06/Mar/2025 21:42:47  
+                      Structure update: Successful
+06/Mar/2025 21:43:27            Solver: Successful
+06/Mar/2025 21:43:27       Solver time: 0 hours, 0 min., 40 sec.
+06/Mar/2025 21:43:27  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 54.736842
+06/Mar/2025 21:43:29  
+                      Structure update: Successful
+06/Mar/2025 21:44:12            Solver: Successful
+06/Mar/2025 21:44:12       Solver time: 0 hours, 0 min., 43 sec.
+06/Mar/2025 21:44:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 57.368421
+06/Mar/2025 21:44:14  
+                      Structure update: Successful
+06/Mar/2025 21:45:00            Solver: Successful
+06/Mar/2025 21:45:00       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 21:45:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 33.684211
+                         Wp = 60
+06/Mar/2025 21:45:02  
+                      Structure update: Successful
+06/Mar/2025 21:45:53            Solver: Successful
+06/Mar/2025 21:45:53       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 21:45:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 10
+06/Mar/2025 21:45:56  
+                      Structure update: Successful
+06/Mar/2025 21:46:38            Solver: Successful
+06/Mar/2025 21:46:38       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 21:46:38  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 12.631579
+06/Mar/2025 21:46:40  
+                      Structure update: Successful
+06/Mar/2025 21:47:24            Solver: Successful
+06/Mar/2025 21:47:24       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 21:47:24  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 15.263158
+06/Mar/2025 21:47:26  
+                      Structure update: Successful
+06/Mar/2025 21:48:10            Solver: Successful
+06/Mar/2025 21:48:10       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 21:48:10  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 17.894737
+06/Mar/2025 21:48:13  
+                      Structure update: Successful
+06/Mar/2025 21:48:57            Solver: Successful
+06/Mar/2025 21:48:57       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 21:48:57  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 20.526316
+06/Mar/2025 21:49:00  
+                      Structure update: Successful
+06/Mar/2025 21:49:46            Solver: Successful
+06/Mar/2025 21:49:46       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 21:49:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 23.157895
+06/Mar/2025 21:49:48  
+                      Structure update: Successful
+06/Mar/2025 21:50:34            Solver: Successful
+06/Mar/2025 21:50:34       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 21:50:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 25.789474
+06/Mar/2025 21:50:36  
+                      Structure update: Successful
+06/Mar/2025 21:51:21            Solver: Successful
+06/Mar/2025 21:51:21       Solver time: 0 hours, 0 min., 45 sec.
+06/Mar/2025 21:51:21  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 28.421053
+06/Mar/2025 21:51:23  
+                      Structure update: Successful
+06/Mar/2025 21:52:06            Solver: Successful
+06/Mar/2025 21:52:06       Solver time: 0 hours, 0 min., 43 sec.
+06/Mar/2025 21:52:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 31.052632
+06/Mar/2025 21:52:08  
+                      Structure update: Successful
+06/Mar/2025 21:52:52            Solver: Successful
+06/Mar/2025 21:52:52       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 21:52:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 33.684211
+06/Mar/2025 21:52:54  
+                      Structure update: Successful
+06/Mar/2025 21:53:36            Solver: Successful
+06/Mar/2025 21:53:36       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 21:53:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 36.315789
+06/Mar/2025 21:53:38  
+                      Structure update: Successful
+06/Mar/2025 21:54:20            Solver: Successful
+06/Mar/2025 21:54:20       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 21:54:20  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 38.947368
+06/Mar/2025 21:54:22  
+                      Structure update: Successful
+06/Mar/2025 21:55:03            Solver: Successful
+06/Mar/2025 21:55:03       Solver time: 0 hours, 0 min., 41 sec.
+06/Mar/2025 21:55:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 41.578947
+06/Mar/2025 21:55:05  
+                      Structure update: Successful
+06/Mar/2025 21:55:46            Solver: Successful
+06/Mar/2025 21:55:46       Solver time: 0 hours, 0 min., 41 sec.
+06/Mar/2025 21:55:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 44.210526
+06/Mar/2025 21:55:49  
+                      Structure update: Successful
+06/Mar/2025 21:56:30            Solver: Successful
+06/Mar/2025 21:56:30       Solver time: 0 hours, 0 min., 41 sec.
+06/Mar/2025 21:56:30  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 46.842105
+06/Mar/2025 21:56:32  
+                      Structure update: Successful
+06/Mar/2025 21:57:13            Solver: Successful
+06/Mar/2025 21:57:13       Solver time: 0 hours, 0 min., 41 sec.
+06/Mar/2025 21:57:13  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 49.473684
+06/Mar/2025 21:57:15  
+                      Structure update: Successful
+06/Mar/2025 21:57:56            Solver: Successful
+06/Mar/2025 21:57:56       Solver time: 0 hours, 0 min., 41 sec.
+06/Mar/2025 21:57:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 52.105263
+06/Mar/2025 21:57:58  
+                      Structure update: Successful
+06/Mar/2025 21:58:39            Solver: Successful
+06/Mar/2025 21:58:39       Solver time: 0 hours, 0 min., 41 sec.
+06/Mar/2025 21:58:39  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 54.736842
+06/Mar/2025 21:58:41  
+                      Structure update: Successful
+06/Mar/2025 21:59:24            Solver: Successful
+06/Mar/2025 21:59:24       Solver time: 0 hours, 0 min., 43 sec.
+06/Mar/2025 21:59:24  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 57.368421
+06/Mar/2025 21:59:26  
+                      Structure update: Successful
+06/Mar/2025 22:00:12            Solver: Successful
+06/Mar/2025 22:00:12       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 22:00:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 36.315789
+                         Wp = 60
+06/Mar/2025 22:00:14  
+                      Structure update: Successful
+06/Mar/2025 22:01:00            Solver: Successful
+06/Mar/2025 22:01:00       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 22:01:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 10
+06/Mar/2025 22:01:02  
+                      Structure update: Successful
+06/Mar/2025 22:01:46            Solver: Successful
+06/Mar/2025 22:01:46       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 22:01:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 12.631579
+06/Mar/2025 22:01:49  
+                      Structure update: Successful
+06/Mar/2025 22:02:33            Solver: Successful
+06/Mar/2025 22:02:33       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 22:02:33  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 15.263158
+06/Mar/2025 22:02:35  
+                      Structure update: Successful
+06/Mar/2025 22:03:21            Solver: Successful
+06/Mar/2025 22:03:21       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 22:03:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 17.894737
+06/Mar/2025 22:03:24  
+                      Structure update: Successful
+06/Mar/2025 22:04:11            Solver: Successful
+06/Mar/2025 22:04:11       Solver time: 0 hours, 0 min., 47 sec.
+06/Mar/2025 22:04:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 20.526316
+06/Mar/2025 22:04:13  
+                      Structure update: Successful
+06/Mar/2025 22:05:01            Solver: Successful
+06/Mar/2025 22:05:01       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 22:05:01  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 23.157895
+06/Mar/2025 22:05:03  
+                      Structure update: Successful
+06/Mar/2025 22:05:51            Solver: Successful
+06/Mar/2025 22:05:51       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 22:05:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 25.789474
+06/Mar/2025 22:05:53  
+                      Structure update: Successful
+06/Mar/2025 22:06:40            Solver: Successful
+06/Mar/2025 22:06:40       Solver time: 0 hours, 0 min., 47 sec.
+06/Mar/2025 22:06:40  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 28.421053
+06/Mar/2025 22:06:42  
+                      Structure update: Successful
+06/Mar/2025 22:07:28            Solver: Successful
+06/Mar/2025 22:07:28       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 22:07:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 31.052632
+06/Mar/2025 22:07:30  
+                      Structure update: Successful
+06/Mar/2025 22:08:15            Solver: Successful
+06/Mar/2025 22:08:15       Solver time: 0 hours, 0 min., 45 sec.
+06/Mar/2025 22:08:15  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 33.684211
+06/Mar/2025 22:08:17  
+                      Structure update: Successful
+06/Mar/2025 22:09:02            Solver: Successful
+06/Mar/2025 22:09:02       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 22:09:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 36.315789
+06/Mar/2025 22:09:04  
+                      Structure update: Successful
+06/Mar/2025 22:09:47            Solver: Successful
+06/Mar/2025 22:09:47       Solver time: 0 hours, 0 min., 43 sec.
+06/Mar/2025 22:09:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 38.947368
+06/Mar/2025 22:09:50  
+                      Structure update: Successful
+06/Mar/2025 22:10:32            Solver: Successful
+06/Mar/2025 22:10:32       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 22:10:32  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 41.578947
+06/Mar/2025 22:10:34  
+                      Structure update: Successful
+06/Mar/2025 22:11:17            Solver: Successful
+06/Mar/2025 22:11:17       Solver time: 0 hours, 0 min., 43 sec.
+06/Mar/2025 22:11:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 44.210526
+06/Mar/2025 22:11:20  
+                      Structure update: Successful
+06/Mar/2025 22:12:02            Solver: Successful
+06/Mar/2025 22:12:02       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 22:12:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 46.842105
+06/Mar/2025 22:12:05  
+                      Structure update: Successful
+06/Mar/2025 22:12:47            Solver: Successful
+06/Mar/2025 22:12:47       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 22:12:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 49.473684
+06/Mar/2025 22:12:50  
+                      Structure update: Successful
+06/Mar/2025 22:13:32            Solver: Successful
+06/Mar/2025 22:13:32       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 22:13:32  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 52.105263
+06/Mar/2025 22:13:35  
+                      Structure update: Successful
+06/Mar/2025 22:14:17            Solver: Successful
+06/Mar/2025 22:14:17       Solver time: 0 hours, 0 min., 42 sec.
+06/Mar/2025 22:14:17  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 54.736842
+06/Mar/2025 22:14:19  
+                      Structure update: Successful
+06/Mar/2025 22:15:03            Solver: Successful
+06/Mar/2025 22:15:03       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 22:15:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 57.368421
+06/Mar/2025 22:15:06  
+                      Structure update: Successful
+06/Mar/2025 22:15:52            Solver: Successful
+06/Mar/2025 22:15:52       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 22:15:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 38.947368
+                         Wp = 60
+06/Mar/2025 22:15:54  
+                      Structure update: Successful
+06/Mar/2025 22:16:40            Solver: Successful
+06/Mar/2025 22:16:40       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 22:16:40  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 10
+06/Mar/2025 22:16:42  
+                      Structure update: Successful
+06/Mar/2025 22:17:28            Solver: Successful
+06/Mar/2025 22:17:28       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 22:17:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 12.631579
+06/Mar/2025 22:17:30  
+                      Structure update: Successful
+06/Mar/2025 22:18:17            Solver: Successful
+06/Mar/2025 22:18:17       Solver time: 0 hours, 0 min., 47 sec.
+06/Mar/2025 22:18:17  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 15.263158
+06/Mar/2025 22:18:19  
+                      Structure update: Successful
+06/Mar/2025 22:19:08            Solver: Successful
+06/Mar/2025 22:19:08       Solver time: 0 hours, 0 min., 49 sec.
+06/Mar/2025 22:19:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 17.894737
+06/Mar/2025 22:19:10  
+                      Structure update: Successful
+06/Mar/2025 22:20:00            Solver: Successful
+06/Mar/2025 22:20:00       Solver time: 0 hours, 0 min., 50 sec.
+06/Mar/2025 22:20:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 20.526316
+06/Mar/2025 22:20:02  
+                      Structure update: Successful
+06/Mar/2025 22:20:53            Solver: Successful
+06/Mar/2025 22:20:53       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 22:20:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 23.157895
+06/Mar/2025 22:20:55  
+                      Structure update: Successful
+06/Mar/2025 22:21:46            Solver: Successful
+06/Mar/2025 22:21:46       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 22:21:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 25.789474
+06/Mar/2025 22:21:48  
+                      Structure update: Successful
+06/Mar/2025 22:22:37            Solver: Successful
+06/Mar/2025 22:22:37       Solver time: 0 hours, 0 min., 49 sec.
+06/Mar/2025 22:22:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 28.421053
+06/Mar/2025 22:22:39  
+                      Structure update: Successful
+06/Mar/2025 22:23:27            Solver: Successful
+06/Mar/2025 22:23:27       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 22:23:27  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 31.052632
+06/Mar/2025 22:23:29  
+                      Structure update: Successful
+06/Mar/2025 22:24:16            Solver: Successful
+06/Mar/2025 22:24:16       Solver time: 0 hours, 0 min., 47 sec.
+06/Mar/2025 22:24:16  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 33.684211
+06/Mar/2025 22:24:19  
+                      Structure update: Successful
+06/Mar/2025 22:25:05            Solver: Successful
+06/Mar/2025 22:25:05       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 22:25:05  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 36.315789
+06/Mar/2025 22:25:07  
+                      Structure update: Successful
+06/Mar/2025 22:25:53            Solver: Successful
+06/Mar/2025 22:25:53       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 22:25:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 38.947368
+06/Mar/2025 22:25:55  
+                      Structure update: Successful
+06/Mar/2025 22:26:39            Solver: Successful
+06/Mar/2025 22:26:39       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 22:26:39  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 41.578947
+06/Mar/2025 22:26:41  
+                      Structure update: Successful
+06/Mar/2025 22:27:26            Solver: Successful
+06/Mar/2025 22:27:26       Solver time: 0 hours, 0 min., 45 sec.
+06/Mar/2025 22:27:26  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 44.210526
+06/Mar/2025 22:27:29  
+                      Structure update: Successful
+06/Mar/2025 22:28:13            Solver: Successful
+06/Mar/2025 22:28:13       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 22:28:13  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 46.842105
+06/Mar/2025 22:28:16  
+                      Structure update: Successful
+06/Mar/2025 22:29:00            Solver: Successful
+06/Mar/2025 22:29:00       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 22:29:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 49.473684
+06/Mar/2025 22:29:02  
+                      Structure update: Successful
+06/Mar/2025 22:29:45            Solver: Successful
+06/Mar/2025 22:29:45       Solver time: 0 hours, 0 min., 43 sec.
+06/Mar/2025 22:29:45  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 52.105263
+06/Mar/2025 22:29:48  
+                      Structure update: Successful
+06/Mar/2025 22:30:32            Solver: Successful
+06/Mar/2025 22:30:32       Solver time: 0 hours, 0 min., 44 sec.
+06/Mar/2025 22:30:32  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 54.736842
+06/Mar/2025 22:30:34  
+                      Structure update: Successful
+06/Mar/2025 22:31:19            Solver: Successful
+06/Mar/2025 22:31:19       Solver time: 0 hours, 0 min., 45 sec.
+06/Mar/2025 22:31:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 57.368421
+06/Mar/2025 22:31:21  
+                      Structure update: Successful
+06/Mar/2025 22:32:08            Solver: Successful
+06/Mar/2025 22:32:08       Solver time: 0 hours, 0 min., 47 sec.
+06/Mar/2025 22:32:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 41.578947
+                         Wp = 60
+06/Mar/2025 22:32:10  
+                      Structure update: Successful
+06/Mar/2025 22:33:01            Solver: Successful
+06/Mar/2025 22:33:01       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 22:33:01  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 10
+06/Mar/2025 22:33:03  
+                      Structure update: Successful
+06/Mar/2025 22:33:51            Solver: Successful
+06/Mar/2025 22:33:51       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 22:33:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 12.631579
+06/Mar/2025 22:33:53  
+                      Structure update: Successful
+06/Mar/2025 22:34:43            Solver: Successful
+06/Mar/2025 22:34:43       Solver time: 0 hours, 0 min., 50 sec.
+06/Mar/2025 22:34:43  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 15.263158
+06/Mar/2025 22:34:45  
+                      Structure update: Successful
+06/Mar/2025 22:35:37            Solver: Successful
+06/Mar/2025 22:35:37       Solver time: 0 hours, 0 min., 52 sec.
+06/Mar/2025 22:35:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 17.894737
+06/Mar/2025 22:35:39  
+                      Structure update: Successful
+06/Mar/2025 22:36:31            Solver: Successful
+06/Mar/2025 22:36:31       Solver time: 0 hours, 0 min., 52 sec.
+06/Mar/2025 22:36:31  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 20.526316
+06/Mar/2025 22:36:33  
+                      Structure update: Successful
+06/Mar/2025 22:37:27            Solver: Successful
+06/Mar/2025 22:37:27       Solver time: 0 hours, 0 min., 54 sec.
+06/Mar/2025 22:37:27  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 23.157895
+06/Mar/2025 22:37:29  
+                      Structure update: Successful
+06/Mar/2025 22:38:22            Solver: Successful
+06/Mar/2025 22:38:22       Solver time: 0 hours, 0 min., 53 sec.
+06/Mar/2025 22:38:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 25.789474
+06/Mar/2025 22:38:25  
+                      Structure update: Successful
+06/Mar/2025 22:39:16            Solver: Successful
+06/Mar/2025 22:39:16       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 22:39:16  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 28.421053
+06/Mar/2025 22:39:18  
+                      Structure update: Successful
+06/Mar/2025 22:40:09            Solver: Successful
+06/Mar/2025 22:40:09       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 22:40:09  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 31.052632
+06/Mar/2025 22:40:12  
+                      Structure update: Successful
+06/Mar/2025 22:41:03            Solver: Successful
+06/Mar/2025 22:41:03       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 22:41:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 33.684211
+06/Mar/2025 22:41:05  
+                      Structure update: Successful
+06/Mar/2025 22:41:54            Solver: Successful
+06/Mar/2025 22:41:54       Solver time: 0 hours, 0 min., 49 sec.
+06/Mar/2025 22:41:54  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 36.315789
+06/Mar/2025 22:41:57  
+                      Structure update: Successful
+06/Mar/2025 22:42:45            Solver: Successful
+06/Mar/2025 22:42:45       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 22:42:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 38.947368
+06/Mar/2025 22:42:48  
+                      Structure update: Successful
+06/Mar/2025 22:43:34            Solver: Successful
+06/Mar/2025 22:43:34       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 22:43:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 41.578947
+06/Mar/2025 22:43:37  
+                      Structure update: Successful
+06/Mar/2025 22:44:25            Solver: Successful
+06/Mar/2025 22:44:25       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 22:44:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 44.210526
+06/Mar/2025 22:44:27  
+                      Structure update: Successful
+06/Mar/2025 22:45:15            Solver: Successful
+06/Mar/2025 22:45:15       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 22:45:15  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 46.842105
+06/Mar/2025 22:45:17  
+                      Structure update: Successful
+06/Mar/2025 22:46:04            Solver: Successful
+06/Mar/2025 22:46:04       Solver time: 0 hours, 0 min., 47 sec.
+06/Mar/2025 22:46:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 49.473684
+06/Mar/2025 22:46:06  
+                      Structure update: Successful
+06/Mar/2025 22:46:53            Solver: Successful
+06/Mar/2025 22:46:53       Solver time: 0 hours, 0 min., 47 sec.
+06/Mar/2025 22:46:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 52.105263
+06/Mar/2025 22:46:55  
+                      Structure update: Successful
+06/Mar/2025 22:47:40            Solver: Successful
+06/Mar/2025 22:47:40       Solver time: 0 hours, 0 min., 45 sec.
+06/Mar/2025 22:47:40  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 54.736842
+06/Mar/2025 22:47:43  
+                      Structure update: Successful
+06/Mar/2025 22:48:28            Solver: Successful
+06/Mar/2025 22:48:28       Solver time: 0 hours, 0 min., 45 sec.
+06/Mar/2025 22:48:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 57.368421
+06/Mar/2025 22:48:31  
+                      Structure update: Successful
+06/Mar/2025 22:49:19            Solver: Successful
+06/Mar/2025 22:49:19       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 22:49:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 44.210526
+                         Wp = 60
+06/Mar/2025 22:49:22  
+                      Structure update: Successful
+06/Mar/2025 22:50:13            Solver: Successful
+06/Mar/2025 22:50:13       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 22:50:13  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 10
+06/Mar/2025 22:50:16  
+                      Structure update: Successful
+06/Mar/2025 22:51:06            Solver: Successful
+06/Mar/2025 22:51:06       Solver time: 0 hours, 0 min., 50 sec.
+06/Mar/2025 22:51:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 12.631579
+06/Mar/2025 22:51:09  
+                      Structure update: Successful
+06/Mar/2025 22:52:01            Solver: Successful
+06/Mar/2025 22:52:01       Solver time: 0 hours, 0 min., 52 sec.
+06/Mar/2025 22:52:01  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 15.263158
+06/Mar/2025 22:52:03  
+                      Structure update: Successful
+06/Mar/2025 22:52:58            Solver: Successful
+06/Mar/2025 22:52:58       Solver time: 0 hours, 0 min., 55 sec.
+06/Mar/2025 22:52:58  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 17.894737
+06/Mar/2025 22:53:00  
+                      Structure update: Successful
+06/Mar/2025 22:53:56            Solver: Successful
+06/Mar/2025 22:53:56       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 22:53:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 20.526316
+06/Mar/2025 22:53:58  
+                      Structure update: Successful
+06/Mar/2025 22:54:55            Solver: Successful
+06/Mar/2025 22:54:55       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 22:54:55  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 23.157895
+06/Mar/2025 22:54:58  
+                      Structure update: Successful
+06/Mar/2025 22:55:56            Solver: Successful
+06/Mar/2025 22:55:56       Solver time: 0 hours, 0 min., 58 sec.
+06/Mar/2025 22:55:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 25.789474
+06/Mar/2025 22:55:58  
+                      Structure update: Successful
+06/Mar/2025 22:56:54            Solver: Successful
+06/Mar/2025 22:56:54       Solver time: 0 hours, 0 min., 55 sec.
+06/Mar/2025 22:56:54  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 28.421053
+06/Mar/2025 22:56:56  
+                      Structure update: Successful
+06/Mar/2025 22:57:51            Solver: Successful
+06/Mar/2025 22:57:51       Solver time: 0 hours, 0 min., 55 sec.
+06/Mar/2025 22:57:51  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 31.052632
+06/Mar/2025 22:57:53  
+                      Structure update: Successful
+06/Mar/2025 22:58:47            Solver: Successful
+06/Mar/2025 22:58:47       Solver time: 0 hours, 0 min., 54 sec.
+06/Mar/2025 22:58:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 33.684211
+06/Mar/2025 22:58:49  
+                      Structure update: Successful
+06/Mar/2025 22:59:41            Solver: Successful
+06/Mar/2025 22:59:41       Solver time: 0 hours, 0 min., 52 sec.
+06/Mar/2025 22:59:41  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 36.315789
+06/Mar/2025 22:59:44  
+                      Structure update: Successful
+06/Mar/2025 23:00:35            Solver: Successful
+06/Mar/2025 23:00:35       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 23:00:35  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 38.947368
+06/Mar/2025 23:00:37  
+                      Structure update: Successful
+06/Mar/2025 23:01:25            Solver: Successful
+06/Mar/2025 23:01:25       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 23:01:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 41.578947
+06/Mar/2025 23:01:27  
+                      Structure update: Successful
+06/Mar/2025 23:02:16            Solver: Successful
+06/Mar/2025 23:02:16       Solver time: 0 hours, 0 min., 49 sec.
+06/Mar/2025 23:02:16  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 44.210526
+06/Mar/2025 23:02:18  
+                      Structure update: Successful
+06/Mar/2025 23:03:07            Solver: Successful
+06/Mar/2025 23:03:07       Solver time: 0 hours, 0 min., 49 sec.
+06/Mar/2025 23:03:07  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 46.842105
+06/Mar/2025 23:03:10  
+                      Structure update: Successful
+06/Mar/2025 23:03:58            Solver: Successful
+06/Mar/2025 23:03:58       Solver time: 0 hours, 0 min., 48 sec.
+06/Mar/2025 23:03:58  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 49.473684
+06/Mar/2025 23:04:00  
+                      Structure update: Successful
+06/Mar/2025 23:04:47            Solver: Successful
+06/Mar/2025 23:04:47       Solver time: 0 hours, 0 min., 47 sec.
+06/Mar/2025 23:04:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 52.105263
+06/Mar/2025 23:04:50  
+                      Structure update: Successful
+06/Mar/2025 23:05:36            Solver: Successful
+06/Mar/2025 23:05:36       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 23:05:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 54.736842
+06/Mar/2025 23:05:39  
+                      Structure update: Successful
+06/Mar/2025 23:06:25            Solver: Successful
+06/Mar/2025 23:06:25       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 23:06:25  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 57.368421
+06/Mar/2025 23:06:28  
+                      Structure update: Successful
+06/Mar/2025 23:07:14            Solver: Successful
+06/Mar/2025 23:07:14       Solver time: 0 hours, 0 min., 46 sec.
+06/Mar/2025 23:07:14  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 46.842105
+                         Wp = 60
+06/Mar/2025 23:07:17  
+                      Structure update: Successful
+06/Mar/2025 23:08:08            Solver: Successful
+06/Mar/2025 23:08:08       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 23:08:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 10
+06/Mar/2025 23:08:10  
+                      Structure update: Successful
+06/Mar/2025 23:09:02            Solver: Successful
+06/Mar/2025 23:09:02       Solver time: 0 hours, 0 min., 52 sec.
+06/Mar/2025 23:09:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 12.631579
+06/Mar/2025 23:09:04  
+                      Structure update: Successful
+06/Mar/2025 23:09:57            Solver: Successful
+06/Mar/2025 23:09:57       Solver time: 0 hours, 0 min., 53 sec.
+06/Mar/2025 23:09:57  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 15.263158
+06/Mar/2025 23:09:59  
+                      Structure update: Successful
+06/Mar/2025 23:10:55            Solver: Successful
+06/Mar/2025 23:10:55       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 23:10:55  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 17.894737
+06/Mar/2025 23:10:58  
+                      Structure update: Successful
+06/Mar/2025 23:11:54            Solver: Successful
+06/Mar/2025 23:11:54       Solver time: 0 hours, 0 min., 56 sec.
+06/Mar/2025 23:11:54  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 20.526316
+06/Mar/2025 23:11:56  
+                      Structure update: Successful
+06/Mar/2025 23:12:55            Solver: Successful
+06/Mar/2025 23:12:55       Solver time: 0 hours, 0 min., 59 sec.
+06/Mar/2025 23:12:55  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 23.157895
+06/Mar/2025 23:12:57  
+                      Structure update: Successful
+06/Mar/2025 23:13:56            Solver: Successful
+06/Mar/2025 23:13:56       Solver time: 0 hours, 0 min., 59 sec.
+06/Mar/2025 23:13:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 25.789474
+06/Mar/2025 23:13:58  
+                      Structure update: Successful
+06/Mar/2025 23:14:57            Solver: Successful
+06/Mar/2025 23:14:57       Solver time: 0 hours, 0 min., 59 sec.
+06/Mar/2025 23:14:57  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 28.421053
+06/Mar/2025 23:14:59  
+                      Structure update: Successful
+06/Mar/2025 23:15:56            Solver: Successful
+06/Mar/2025 23:15:56       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 23:15:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 31.052632
+06/Mar/2025 23:15:59  
+                      Structure update: Successful
+06/Mar/2025 23:18:24            Solver: Successful
+06/Mar/2025 23:18:24       Solver time: 0 hours, 2 min., 25 sec.
+06/Mar/2025 23:18:24  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 33.684211
+06/Mar/2025 23:18:28  
+                      Structure update: Successful
+06/Mar/2025 23:20:48            Solver: Successful
+06/Mar/2025 23:20:48       Solver time: 0 hours, 2 min., 20 sec.
+06/Mar/2025 23:20:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 36.315789
+06/Mar/2025 23:20:53  
+                      Structure update: Successful
+06/Mar/2025 23:23:15            Solver: Successful
+06/Mar/2025 23:23:15       Solver time: 0 hours, 2 min., 22 sec.
+06/Mar/2025 23:23:15  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 38.947368
+06/Mar/2025 23:23:20  
+                      Structure update: Successful
+06/Mar/2025 23:25:26            Solver: Successful
+06/Mar/2025 23:25:26       Solver time: 0 hours, 2 min., 6 sec.
+06/Mar/2025 23:25:26  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 41.578947
+06/Mar/2025 23:25:31  
+                      Structure update: Successful
+06/Mar/2025 23:27:42            Solver: Successful
+06/Mar/2025 23:27:42       Solver time: 0 hours, 2 min., 11 sec.
+06/Mar/2025 23:27:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 44.210526
+06/Mar/2025 23:27:46  
+                      Structure update: Successful
+06/Mar/2025 23:29:56            Solver: Successful
+06/Mar/2025 23:29:56       Solver time: 0 hours, 2 min., 10 sec.
+06/Mar/2025 23:29:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 46.842105
+06/Mar/2025 23:30:00  
+                      Structure update: Successful
+06/Mar/2025 23:32:24            Solver: Successful
+06/Mar/2025 23:32:24       Solver time: 0 hours, 2 min., 24 sec.
+06/Mar/2025 23:32:24  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 49.473684
+06/Mar/2025 23:32:28  
+                      Structure update: Successful
+06/Mar/2025 23:33:48            Solver: Successful
+06/Mar/2025 23:33:48       Solver time: 0 hours, 1 min., 20 sec.
+06/Mar/2025 23:33:48  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 52.105263
+06/Mar/2025 23:33:50  
+                      Structure update: Successful
+06/Mar/2025 23:34:41            Solver: Successful
+06/Mar/2025 23:34:41       Solver time: 0 hours, 0 min., 51 sec.
+06/Mar/2025 23:34:41  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 54.736842
+06/Mar/2025 23:34:44  
+                      Structure update: Successful
+06/Mar/2025 23:35:34            Solver: Successful
+06/Mar/2025 23:35:34       Solver time: 0 hours, 0 min., 50 sec.
+06/Mar/2025 23:35:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 57.368421
+06/Mar/2025 23:35:36  
+                      Structure update: Successful
+06/Mar/2025 23:36:26            Solver: Successful
+06/Mar/2025 23:36:26       Solver time: 0 hours, 0 min., 50 sec.
+06/Mar/2025 23:36:26  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 49.473684
+                         Wp = 60
+06/Mar/2025 23:36:29  
+                      Structure update: Successful
+06/Mar/2025 23:37:23            Solver: Successful
+06/Mar/2025 23:37:23       Solver time: 0 hours, 0 min., 54 sec.
+06/Mar/2025 23:37:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 10
+06/Mar/2025 23:37:26  
+                      Structure update: Successful
+06/Mar/2025 23:38:23            Solver: Successful
+06/Mar/2025 23:38:23       Solver time: 0 hours, 0 min., 57 sec.
+06/Mar/2025 23:38:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 12.631579
+06/Mar/2025 23:38:25  
+                      Structure update: Successful
+06/Mar/2025 23:39:23            Solver: Successful
+06/Mar/2025 23:39:23       Solver time: 0 hours, 0 min., 58 sec.
+06/Mar/2025 23:39:23  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 15.263158
+06/Mar/2025 23:39:25  
+                      Structure update: Successful
+06/Mar/2025 23:40:29            Solver: Successful
+06/Mar/2025 23:40:29       Solver time: 0 hours, 1 min., 4 sec.
+06/Mar/2025 23:40:29  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 17.894737
+06/Mar/2025 23:40:31  
+                      Structure update: Successful
+06/Mar/2025 23:41:34            Solver: Successful
+06/Mar/2025 23:41:34       Solver time: 0 hours, 1 min., 3 sec.
+06/Mar/2025 23:41:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 20.526316
+06/Mar/2025 23:41:36  
+                      Structure update: Successful
+06/Mar/2025 23:42:41            Solver: Successful
+06/Mar/2025 23:42:41       Solver time: 0 hours, 1 min., 5 sec.
+06/Mar/2025 23:42:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 23.157895
+06/Mar/2025 23:42:44  
+                      Structure update: Successful
+06/Mar/2025 23:43:49            Solver: Successful
+06/Mar/2025 23:43:49       Solver time: 0 hours, 1 min., 5 sec.
+06/Mar/2025 23:43:49  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 25.789474
+06/Mar/2025 23:43:52  
+                      Structure update: Successful
+06/Mar/2025 23:44:54            Solver: Successful
+06/Mar/2025 23:44:54       Solver time: 0 hours, 1 min., 2 sec.
+06/Mar/2025 23:44:54  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 28.421053
+06/Mar/2025 23:44:56  
+                      Structure update: Successful
+06/Mar/2025 23:45:58            Solver: Successful
+06/Mar/2025 23:45:58       Solver time: 0 hours, 1 min., 1 sec.
+06/Mar/2025 23:45:58  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 31.052632
+06/Mar/2025 23:46:01  
+                      Structure update: Successful
+06/Mar/2025 23:47:02            Solver: Successful
+06/Mar/2025 23:47:02       Solver time: 0 hours, 1 min., 1 sec.
+06/Mar/2025 23:47:02  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 33.684211
+06/Mar/2025 23:47:05  
+                      Structure update: Successful
+06/Mar/2025 23:48:06            Solver: Successful
+06/Mar/2025 23:48:06       Solver time: 0 hours, 1 min., 1 sec.
+06/Mar/2025 23:48:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 36.315789
+06/Mar/2025 23:48:09  
+                      Structure update: Successful
+06/Mar/2025 23:49:10            Solver: Successful
+06/Mar/2025 23:49:10       Solver time: 0 hours, 1 min., 1 sec.
+06/Mar/2025 23:49:10  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 38.947368
+06/Mar/2025 23:49:13  
+                      Structure update: Successful
+06/Mar/2025 23:50:11            Solver: Successful
+06/Mar/2025 23:50:11       Solver time: 0 hours, 0 min., 58 sec.
+06/Mar/2025 23:50:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 41.578947
+06/Mar/2025 23:50:14  
+                      Structure update: Successful
+06/Mar/2025 23:51:43            Solver: Successful
+06/Mar/2025 23:51:43       Solver time: 0 hours, 1 min., 29 sec.
+06/Mar/2025 23:51:43  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 44.210526
+06/Mar/2025 23:51:47  
+                      Structure update: Successful
+06/Mar/2025 23:54:03            Solver: Successful
+06/Mar/2025 23:54:03       Solver time: 0 hours, 2 min., 16 sec.
+06/Mar/2025 23:54:04  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 46.842105
+06/Mar/2025 23:54:07  
+                      Structure update: Successful
+06/Mar/2025 23:56:22            Solver: Successful
+06/Mar/2025 23:56:22       Solver time: 0 hours, 2 min., 15 sec.
+06/Mar/2025 23:56:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 49.473684
+06/Mar/2025 23:56:26  
+                      Structure update: Successful
+06/Mar/2025 23:57:46            Solver: Successful
+06/Mar/2025 23:57:46       Solver time: 0 hours, 1 min., 20 sec.
+06/Mar/2025 23:57:46  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 52.105263
+06/Mar/2025 23:57:47  
+                      Structure update: Successful
+06/Mar/2025 23:59:42            Solver: Successful
+06/Mar/2025 23:59:42       Solver time: 0 hours, 1 min., 55 sec.
+06/Mar/2025 23:59:42  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 54.736842
+06/Mar/2025 23:59:43  
+                      Structure update: Successful
+07/Mar/2025 00:01:39            Solver: Successful
+07/Mar/2025 00:01:39       Solver time: 0 hours, 1 min., 56 sec.
+07/Mar/2025 00:01:40  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 57.368421
+07/Mar/2025 00:01:41  
+                      Structure update: Successful
+07/Mar/2025 00:03:39            Solver: Successful
+07/Mar/2025 00:03:39       Solver time: 0 hours, 1 min., 58 sec.
+07/Mar/2025 00:03:39  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 52.105263
+                         Wp = 60
+07/Mar/2025 00:03:41  
+                      Structure update: Successful
+07/Mar/2025 00:05:37            Solver: Successful
+07/Mar/2025 00:05:37       Solver time: 0 hours, 1 min., 56 sec.
+07/Mar/2025 00:05:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 10
+07/Mar/2025 00:05:38  
+                      Structure update: Successful
+07/Mar/2025 00:07:56            Solver: Successful
+07/Mar/2025 00:07:56       Solver time: 0 hours, 2 min., 18 sec.
+07/Mar/2025 00:07:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 12.631579
+07/Mar/2025 00:07:58  
+                      Structure update: Successful
+07/Mar/2025 00:09:00            Solver: Successful
+07/Mar/2025 00:09:00       Solver time: 0 hours, 1 min., 2 sec.
+07/Mar/2025 00:09:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 15.263158
+07/Mar/2025 00:09:01  
+                      Structure update: Successful
+07/Mar/2025 00:11:31            Solver: Successful
+07/Mar/2025 00:11:31       Solver time: 0 hours, 2 min., 30 sec.
+07/Mar/2025 00:11:31  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 17.894737
+07/Mar/2025 00:11:32  
+                      Structure update: Successful
+07/Mar/2025 00:14:03            Solver: Successful
+07/Mar/2025 00:14:03       Solver time: 0 hours, 2 min., 31 sec.
+07/Mar/2025 00:14:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 20.526316
+07/Mar/2025 00:14:04  
+                      Structure update: Successful
+07/Mar/2025 00:16:39            Solver: Successful
+07/Mar/2025 00:16:39       Solver time: 0 hours, 2 min., 35 sec.
+07/Mar/2025 00:16:39  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 23.157895
+07/Mar/2025 00:16:41  
+                      Structure update: Successful
+07/Mar/2025 00:18:08            Solver: Successful
+07/Mar/2025 00:18:08       Solver time: 0 hours, 1 min., 27 sec.
+07/Mar/2025 00:18:08  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 25.789474
+07/Mar/2025 00:18:09  
+                      Structure update: Successful
+07/Mar/2025 00:20:39            Solver: Successful
+07/Mar/2025 00:20:39       Solver time: 0 hours, 2 min., 30 sec.
+07/Mar/2025 00:20:39  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 28.421053
+07/Mar/2025 00:20:41  
+                      Structure update: Successful
+07/Mar/2025 00:23:06            Solver: Successful
+07/Mar/2025 00:23:06       Solver time: 0 hours, 2 min., 25 sec.
+07/Mar/2025 00:23:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 31.052632
+07/Mar/2025 00:23:07  
+                      Structure update: Successful
+07/Mar/2025 00:24:52            Solver: Successful
+07/Mar/2025 00:24:52       Solver time: 0 hours, 1 min., 45 sec.
+07/Mar/2025 00:24:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 33.684211
+07/Mar/2025 00:24:53  
+                      Structure update: Successful
+07/Mar/2025 00:25:49            Solver: Successful
+07/Mar/2025 00:25:49       Solver time: 0 hours, 0 min., 56 sec.
+07/Mar/2025 00:25:49  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 36.315789
+07/Mar/2025 00:25:50  
+                      Structure update: Successful
+07/Mar/2025 00:26:53            Solver: Successful
+07/Mar/2025 00:26:53       Solver time: 0 hours, 1 min., 3 sec.
+07/Mar/2025 00:26:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 38.947368
+07/Mar/2025 00:26:54  
+                      Structure update: Successful
+07/Mar/2025 00:29:01            Solver: Successful
+07/Mar/2025 00:29:01       Solver time: 0 hours, 2 min., 7 sec.
+07/Mar/2025 00:29:01  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 41.578947
+07/Mar/2025 00:29:02  
+                      Structure update: Successful
+07/Mar/2025 00:30:00            Solver: Successful
+07/Mar/2025 00:30:00       Solver time: 0 hours, 0 min., 58 sec.
+07/Mar/2025 00:30:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 44.210526
+07/Mar/2025 00:30:01  
+                      Structure update: Successful
+07/Mar/2025 00:30:59            Solver: Successful
+07/Mar/2025 00:30:59       Solver time: 0 hours, 0 min., 58 sec.
+07/Mar/2025 00:30:59  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 46.842105
+07/Mar/2025 00:31:00  
+                      Structure update: Successful
+07/Mar/2025 00:31:56            Solver: Successful
+07/Mar/2025 00:31:56       Solver time: 0 hours, 0 min., 56 sec.
+07/Mar/2025 00:31:56  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 49.473684
+07/Mar/2025 00:31:58  
+                      Structure update: Successful
+07/Mar/2025 00:32:53            Solver: Successful
+07/Mar/2025 00:32:53       Solver time: 0 hours, 0 min., 55 sec.
+07/Mar/2025 00:32:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 52.105263
+07/Mar/2025 00:32:55  
+                      Structure update: Successful
+07/Mar/2025 00:33:50            Solver: Successful
+07/Mar/2025 00:33:50       Solver time: 0 hours, 0 min., 55 sec.
+07/Mar/2025 00:33:50  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 54.736842
+07/Mar/2025 00:33:51  
+                      Structure update: Successful
+07/Mar/2025 00:34:45            Solver: Successful
+07/Mar/2025 00:34:45       Solver time: 0 hours, 0 min., 54 sec.
+07/Mar/2025 00:34:45  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 57.368421
+07/Mar/2025 00:34:46  
+                      Structure update: Successful
+07/Mar/2025 00:35:41            Solver: Successful
+07/Mar/2025 00:35:41       Solver time: 0 hours, 0 min., 55 sec.
+07/Mar/2025 00:35:41  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 54.736842
+                         Wp = 60
+07/Mar/2025 00:35:42  
+                      Structure update: Successful
+07/Mar/2025 00:36:34            Solver: Successful
+07/Mar/2025 00:36:34       Solver time: 0 hours, 0 min., 52 sec.
+07/Mar/2025 00:36:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 10
+07/Mar/2025 00:36:36  
+                      Structure update: Successful
+07/Mar/2025 00:39:05            Solver: Successful
+07/Mar/2025 00:39:05       Solver time: 0 hours, 2 min., 29 sec.
+07/Mar/2025 00:39:05  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 12.631579
+07/Mar/2025 00:39:06  
+                      Structure update: Successful
+07/Mar/2025 00:41:37            Solver: Successful
+07/Mar/2025 00:41:37       Solver time: 0 hours, 2 min., 31 sec.
+07/Mar/2025 00:41:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 15.263158
+07/Mar/2025 00:41:39  
+                      Structure update: Successful
+07/Mar/2025 00:44:10            Solver: Successful
+07/Mar/2025 00:44:10       Solver time: 0 hours, 2 min., 31 sec.
+07/Mar/2025 00:44:10  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 17.894737
+07/Mar/2025 00:44:12  
+                      Structure update: Successful
+07/Mar/2025 00:46:39            Solver: Successful
+07/Mar/2025 00:46:39       Solver time: 0 hours, 2 min., 27 sec.
+07/Mar/2025 00:46:39  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 20.526316
+07/Mar/2025 00:46:40  
+                      Structure update: Successful
+07/Mar/2025 00:49:12            Solver: Successful
+07/Mar/2025 00:49:12       Solver time: 0 hours, 2 min., 32 sec.
+07/Mar/2025 00:49:12  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 23.157895
+07/Mar/2025 00:49:14  
+                      Structure update: Successful
+07/Mar/2025 00:51:40            Solver: Successful
+07/Mar/2025 00:51:40       Solver time: 0 hours, 2 min., 26 sec.
+07/Mar/2025 00:51:40  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 25.789474
+07/Mar/2025 00:51:42  
+                      Structure update: Successful
+07/Mar/2025 00:54:06            Solver: Successful
+07/Mar/2025 00:54:06       Solver time: 0 hours, 2 min., 24 sec.
+07/Mar/2025 00:54:06  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 28.421053
+07/Mar/2025 00:54:07  
+                      Structure update: Successful
+07/Mar/2025 00:56:26            Solver: Successful
+07/Mar/2025 00:56:26       Solver time: 0 hours, 2 min., 19 sec.
+07/Mar/2025 00:56:26  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 31.052632
+07/Mar/2025 00:56:27  
+                      Structure update: Successful
+07/Mar/2025 00:58:53            Solver: Successful
+07/Mar/2025 00:58:53       Solver time: 0 hours, 2 min., 26 sec.
+07/Mar/2025 00:58:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 33.684211
+07/Mar/2025 00:58:54  
+                      Structure update: Successful
+07/Mar/2025 01:01:14            Solver: Successful
+07/Mar/2025 01:01:14       Solver time: 0 hours, 2 min., 20 sec.
+07/Mar/2025 01:01:14  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 36.315789
+07/Mar/2025 01:01:15  
+                      Structure update: Successful
+07/Mar/2025 01:03:44            Solver: Successful
+07/Mar/2025 01:03:44       Solver time: 0 hours, 2 min., 29 sec.
+07/Mar/2025 01:03:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 38.947368
+07/Mar/2025 01:03:45  
+                      Structure update: Successful
+07/Mar/2025 01:06:03            Solver: Successful
+07/Mar/2025 01:06:03       Solver time: 0 hours, 2 min., 18 sec.
+07/Mar/2025 01:06:03  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 41.578947
+07/Mar/2025 01:06:05  
+                      Structure update: Successful
+07/Mar/2025 01:08:18            Solver: Successful
+07/Mar/2025 01:08:18       Solver time: 0 hours, 2 min., 13 sec.
+07/Mar/2025 01:08:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 44.210526
+07/Mar/2025 01:08:19  
+                      Structure update: Successful
+07/Mar/2025 01:09:18            Solver: Successful
+07/Mar/2025 01:09:18       Solver time: 0 hours, 0 min., 59 sec.
+07/Mar/2025 01:09:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 46.842105
+07/Mar/2025 01:09:19  
+                      Structure update: Successful
+07/Mar/2025 01:10:18            Solver: Successful
+07/Mar/2025 01:10:18       Solver time: 0 hours, 0 min., 59 sec.
+07/Mar/2025 01:10:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 49.473684
+07/Mar/2025 01:10:19  
+                      Structure update: Successful
+07/Mar/2025 01:11:19            Solver: Successful
+07/Mar/2025 01:11:19       Solver time: 0 hours, 1 min., 0 sec.
+07/Mar/2025 01:11:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 52.105263
+07/Mar/2025 01:11:20  
+                      Structure update: Successful
+07/Mar/2025 01:12:20            Solver: Successful
+07/Mar/2025 01:12:20       Solver time: 0 hours, 1 min., 0 sec.
+07/Mar/2025 01:12:20  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 54.736842
+07/Mar/2025 01:12:21  
+                      Structure update: Successful
+07/Mar/2025 01:13:19            Solver: Successful
+07/Mar/2025 01:13:19       Solver time: 0 hours, 0 min., 58 sec.
+07/Mar/2025 01:13:19  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 57.368421
+07/Mar/2025 01:13:20  
+                      Structure update: Successful
+07/Mar/2025 01:14:18            Solver: Successful
+07/Mar/2025 01:14:18       Solver time: 0 hours, 0 min., 58 sec.
+07/Mar/2025 01:14:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 57.368421
+                         Wp = 60
+07/Mar/2025 01:14:19  
+                      Structure update: Successful
+07/Mar/2025 01:15:18            Solver: Successful
+07/Mar/2025 01:15:18       Solver time: 0 hours, 0 min., 59 sec.
+07/Mar/2025 01:15:18  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 10
+07/Mar/2025 01:15:19  
+                      Structure update: Successful
+07/Mar/2025 01:16:20            Solver: Successful
+07/Mar/2025 01:16:20       Solver time: 0 hours, 1 min., 1 sec.
+07/Mar/2025 01:16:20  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 12.631579
+07/Mar/2025 01:16:21  
+                      Structure update: Successful
+07/Mar/2025 01:17:22            Solver: Successful
+07/Mar/2025 01:17:22       Solver time: 0 hours, 1 min., 1 sec.
+07/Mar/2025 01:17:22  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 15.263158
+07/Mar/2025 01:17:23  
+                      Structure update: Successful
+07/Mar/2025 01:18:25            Solver: Successful
+07/Mar/2025 01:18:25       Solver time: 0 hours, 1 min., 2 sec.
+07/Mar/2025 01:18:26  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 17.894737
+07/Mar/2025 01:18:27  
+                      Structure update: Successful
+07/Mar/2025 01:19:28            Solver: Successful
+07/Mar/2025 01:19:28       Solver time: 0 hours, 1 min., 1 sec.
+07/Mar/2025 01:19:28  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 20.526316
+07/Mar/2025 01:19:29  
+                      Structure update: Successful
+07/Mar/2025 01:20:32            Solver: Successful
+07/Mar/2025 01:20:32       Solver time: 0 hours, 1 min., 3 sec.
+07/Mar/2025 01:20:32  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 23.157895
+07/Mar/2025 01:20:33  
+                      Structure update: Successful
+07/Mar/2025 01:21:36            Solver: Successful
+07/Mar/2025 01:21:36       Solver time: 0 hours, 1 min., 3 sec.
+07/Mar/2025 01:21:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 25.789474
+07/Mar/2025 01:21:37  
+                      Structure update: Successful
+07/Mar/2025 01:22:38            Solver: Successful
+07/Mar/2025 01:22:38       Solver time: 0 hours, 1 min., 1 sec.
+07/Mar/2025 01:22:38  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 28.421053
+07/Mar/2025 01:22:39  
+                      Structure update: Successful
+07/Mar/2025 01:23:37            Solver: Successful
+07/Mar/2025 01:23:37       Solver time: 0 hours, 0 min., 58 sec.
+07/Mar/2025 01:23:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 31.052632
+07/Mar/2025 01:23:38  
+                      Structure update: Successful
+07/Mar/2025 01:24:37            Solver: Successful
+07/Mar/2025 01:24:37       Solver time: 0 hours, 0 min., 59 sec.
+07/Mar/2025 01:24:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 33.684211
+07/Mar/2025 01:24:38  
+                      Structure update: Successful
+07/Mar/2025 01:25:37            Solver: Successful
+07/Mar/2025 01:25:37       Solver time: 0 hours, 0 min., 59 sec.
+07/Mar/2025 01:25:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 36.315789
+07/Mar/2025 01:25:38  
+                      Structure update: Successful
+07/Mar/2025 01:26:37            Solver: Successful
+07/Mar/2025 01:26:37       Solver time: 0 hours, 0 min., 59 sec.
+07/Mar/2025 01:26:37  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 38.947368
+07/Mar/2025 01:26:38  
+                      Structure update: Successful
+07/Mar/2025 01:27:35            Solver: Successful
+07/Mar/2025 01:27:35       Solver time: 0 hours, 0 min., 57 sec.
+07/Mar/2025 01:27:35  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 41.578947
+07/Mar/2025 01:27:36  
+                      Structure update: Successful
+07/Mar/2025 01:28:35            Solver: Successful
+07/Mar/2025 01:28:35       Solver time: 0 hours, 0 min., 59 sec.
+07/Mar/2025 01:28:35  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 44.210526
+07/Mar/2025 01:28:37  
+                      Structure update: Successful
+07/Mar/2025 01:29:36            Solver: Successful
+07/Mar/2025 01:29:36       Solver time: 0 hours, 0 min., 59 sec.
+07/Mar/2025 01:29:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 46.842105
+07/Mar/2025 01:29:37  
+                      Structure update: Successful
+07/Mar/2025 01:30:36            Solver: Successful
+07/Mar/2025 01:30:36       Solver time: 0 hours, 0 min., 59 sec.
+07/Mar/2025 01:30:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 49.473684
+07/Mar/2025 01:30:37  
+                      Structure update: Successful
+07/Mar/2025 01:33:15            Solver: Successful
+07/Mar/2025 01:33:15       Solver time: 0 hours, 2 min., 38 sec.
+07/Mar/2025 01:33:15  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 52.105263
+07/Mar/2025 01:33:16  
+                      Structure update: Successful
+07/Mar/2025 01:34:44            Solver: Successful
+07/Mar/2025 01:34:44       Solver time: 0 hours, 1 min., 28 sec.
+07/Mar/2025 01:34:44  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 54.736842
+07/Mar/2025 01:34:45  
+                      Structure update: Successful
+07/Mar/2025 01:35:45            Solver: Successful
+07/Mar/2025 01:35:45       Solver time: 0 hours, 1 min., 0 sec.
+07/Mar/2025 01:35:45  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 57.368421
+07/Mar/2025 01:35:46  
+                      Structure update: Successful
+07/Mar/2025 01:36:47            Solver: Successful
+07/Mar/2025 01:36:47       Solver time: 0 hours, 1 min., 1 sec.
+07/Mar/2025 01:36:47  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         Lp = 60
+                         Wp = 60
+07/Mar/2025 01:36:48  
+                      Structure update: Successful
+07/Mar/2025 01:37:47            Solver: Successful
+07/Mar/2025 01:37:47       Solver time: 0 hours, 0 min., 59 sec.
+07/Mar/2025 01:37:47  --------------------------------------------------------------------------
+07/Mar/2025 01:37:47  
                       ==========================================================================
-                      Total evaluation time: 0 hours, 16 min., 34 sec.
+                      Total evaluation time: 6 hours, 43 min., 40 sec.
                       ==========================================================================

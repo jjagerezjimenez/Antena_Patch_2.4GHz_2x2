@@ -12,27 +12,27 @@
       {
          "name": "Wp",
          "type": "float",
-         "value": 44.5675
+         "value": 60.0
       },
       {
          "name": "Lp",
          "type": "float",
-         "value": 47.4
+         "value": 60.0
       },
       {
          "name": "Wa",
          "type": "float",
-         "value": 3.32
+         "value": 2.0
       },
       {
          "name": "La",
          "type": "float",
-         "value": 33.18
+         "value": 36.8
       },
       {
          "name": "Wf",
          "type": "float",
-         "value": 3.06
+         "value": 3.1
       },
       {
          "name": "Lf",

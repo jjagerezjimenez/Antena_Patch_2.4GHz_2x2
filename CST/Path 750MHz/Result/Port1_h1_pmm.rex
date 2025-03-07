@@ -4,7 +4,7 @@
   <SimulationProperties fieldname="Port1 h1" frequency="0" encoded_unit="&amp;U:A^1.:m^-1" fieldtype="H-Field" fieldscaling="PEAK" dB_Amplitude="20"/>
   <ResultDataType vector="1" complex="1" timedomain="0" frequencymap="1"/>
   <SimulationDomain min="0 0 0" max="0 0 0"/>
-  <PlotSettings Plot="1" ignore_symmetry="0" deformation="0" enforce_culling="0" integer_values="0" default_arrow_type="ARROWS" default_scaling="NONE">
+  <PlotSettings Plot="1" ignore_symmetry="0" deformation="0" enforce_culling="0" default_arrow_type="ARROWS">
     <Plane normal="1 0 0" distance="35"/>
   </PlotSettings>
   <Source type="SOLVER"/>
