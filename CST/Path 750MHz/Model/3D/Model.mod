@@ -3019,3 +3019,105 @@ MinDistributedComputingMemoryLimit "0"
 UseDistributedComputingSharedDirectory "False"
 OnlyConsider0D1DResultsForDC "False"
 
+'@ delete monitor: h-field (f=2400)
+
+'[VERSION]2022.0|31.0.1|20210823[/VERSION]
+With Monitor 
+     .Delete "h-field (f=2400)" 
+End With
+
+'@ define monitor: h-field (f=2245)
+
+'[VERSION]2022.0|31.0.1|20210823[/VERSION]
+With Monitor 
+     .Reset 
+     .Name "h-field (f=2245)" 
+     .Dimension "Volume" 
+     .Domain "Frequency" 
+     .FieldType "Hfield" 
+     .MonitorValue "2245" 
+     .UseSubvolume "False" 
+     .Coordinates "Structure" 
+     .SetSubvolume "-25", "25", "-25", "25", "-0.34999999999999998", "15.168800000000001" 
+     .SetSubvolumeOffset "0.0", "0.0", "0.0", "0.0", "0.0", "0.0" 
+     .SetSubvolumeInflateWithOffset "False" 
+     .Create 
+End With
+
+'@ delete monitor: farfield (f=2400)
+
+'[VERSION]2022.0|31.0.1|20210823[/VERSION]
+With Monitor 
+     .Delete "farfield (f=2400)" 
+End With
+
+'@ define farfield monitor: farfield (f=2245)
+
+'[VERSION]2022.0|31.0.1|20210823[/VERSION]
+With Monitor 
+     .Reset 
+     .Name "farfield (f=2245)" 
+     .Domain "Frequency" 
+     .FieldType "Farfield" 
+     .MonitorValue "2245" 
+     .ExportFarfieldSource "False" 
+     .UseSubvolume "False" 
+     .Coordinates "Structure" 
+     .SetSubvolume "-25", "25", "-25", "25", "-0.34999999999999998", "15.168800000000001" 
+     .SetSubvolumeOffset "10", "10", "10", "10", "10", "10" 
+     .SetSubvolumeInflateWithOffset "False" 
+     .SetSubvolumeOffsetType "FractionOfWavelength" 
+     .EnableNearfieldCalculation "True" 
+     .Create 
+End With
+
+'@ delete monitor: loss (f=2400)
+
+'[VERSION]2022.0|31.0.1|20210823[/VERSION]
+With Monitor 
+     .Delete "loss (f=2400)" 
+End With
+
+'@ define monitor: loss (f=2245)
+
+'[VERSION]2022.0|31.0.1|20210823[/VERSION]
+With Monitor 
+     .Reset 
+     .Name "loss (f=2245)" 
+     .Dimension "Volume" 
+     .Domain "Frequency" 
+     .FieldType "Powerloss" 
+     .MonitorValue "2245" 
+     .UseSubvolume "False" 
+     .Coordinates "Free" 
+     .SetSubvolume "0.0", "0.0", "0.0", "0.0", "0.0", "0.0" 
+     .SetSubvolumeOffset "0.0", "0.0", "0.0", "0.0", "0.0", "0.0" 
+     .SetSubvolumeInflateWithOffset "False" 
+     .Create 
+End With
+
+'@ delete monitor: e-field (f=2400)
+
+'[VERSION]2022.0|31.0.1|20210823[/VERSION]
+With Monitor 
+     .Delete "e-field (f=2400)" 
+End With
+
+'@ define monitor: e-field (f=2245)
+
+'[VERSION]2022.0|31.0.1|20210823[/VERSION]
+With Monitor 
+     .Reset 
+     .Name "e-field (f=2245)" 
+     .Dimension "Volume" 
+     .Domain "Frequency" 
+     .FieldType "Efield" 
+     .MonitorValue "2245" 
+     .UseSubvolume "False" 
+     .Coordinates "Structure" 
+     .SetSubvolume "-25", "25", "-25", "25", "-0.34999999999999998", "15.168800000000001" 
+     .SetSubvolumeOffset "0.0", "0.0", "0.0", "0.0", "0.0", "0.0" 
+     .SetSubvolumeInflateWithOffset "False" 
+     .Create 
+End With
+

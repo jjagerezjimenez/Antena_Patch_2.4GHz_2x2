@@ -1,28 +1,37 @@
-07/Mar/2025 01:36:48  Defined reference frequency for open boundary condition (2500 MHz) is larger
-                      than the lowest relevant system frequency (monitor at 2400 MHz).
+07/Mar/2025 14:18:24  Defined reference frequency for open boundary condition (2500 MHz) is larger
+                      than the lowest relevant system frequency (monitor at 2245 MHz).
                       Please check open boundary settings to ensure accurate monitor results for the
                       lowest frequency of interest.
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:36:48  *** Warning ***
+07/Mar/2025 14:18:24  *** Warning ***
                       
-                      The monitor loss (f=2400) is only available for dielectric or magnetic losses
+                      The monitor loss (f=2245) is only available for dielectric or magnetic losses
                       and will be ignored.
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:01  *** Warning ***
+07/Mar/2025 14:19:25  *** Warning ***
                       
                       No hardware device detected, solver is started without Hardware Accelerator
                       Device.
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:01  The following farfield monitor(s) have been adjusted to model box [-35.5792,
-                      38.4713, -35.5792, 35.5792, -0.929376, 18.6399].
-                        farfield (f=2400). More...
+07/Mar/2025 14:19:25  *** Warning ***
+                      
+                      The operating system
+                      Microsoft Windows 8 Professional x64 (Build 9200)
+                      is marked as deprecated and will not be supported for GPU computing in upcoming
+                      CST Studio Suite releases.
+                      Please contact your 3DS support team for further information.
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:01  
-                      Solver started at: 01:37 AM Friday, 07. March 2025 (Hora estándar de Argentina)
+07/Mar/2025 14:19:25  The following farfield monitor(s) have been adjusted to model box [-25.413,
+                      27.4108, -25.413, 25.413, -0.76306, 17.5804].
+                        farfield (f=2245). More...
+                      
+                      ------------------------------------------------------------------------------
+07/Mar/2025 14:19:26  
+                      Solver started at: 02:19 PM Friday, 07. March 2025 (Hora estándar de Argentina)
                       
                         Module:  Time Domain: S-Parameter (Win 64)
                         Version: 2022.0 Release from 2021-08-23 (change 895802)
@@ -31,7 +40,7 @@
                       ------------------------------------------------------------------------------
 
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:01  ======================================================================
+07/Mar/2025 14:19:26  ======================================================================
                        Solver cycle: 1
                       ======================================================================
                       
@@ -40,17 +49,17 @@
                       
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:01  Units settings: 
+07/Mar/2025 14:19:26  Units settings: 
                       
                         Dimensions: mm
                         Frequency:  MHz
                         Time:       ns
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:01  The dispersive material update will be performed using the "Standard" update schema
+07/Mar/2025 14:19:26  The dispersive material update will be performed using the "Standard" update schema
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:11  Mesh statistics:
+07/Mar/2025 14:19:59  Mesh statistics:
                       
                          Hexahedral mesh type: PERFECT BOUNDARY APPROXIMATION (PBA) (R)
                             Version: default
@@ -59,297 +68,79 @@
                             Number of parallel working threads: 8
                             Number of calculation domains used: 8
                       
-                         Used point accuracy enhancement value: 3.00%.
+                         Used point accuracy enhancement value: 1.00%.
                          Acceleration mode: CPU
                          PBA fill limit: 97.88% (inverse)
-06/Mar/2025 17:02:41     current system memory usage reached 60%
-                         Used point accuracy enhancement value: 4.00%.
-                         PBA fill limit: 98.07% (inverse)
-06/Mar/2025 17:05:21     current system memory usage reached 65%
-                         Used point accuracy enhancement value: 7.00%.
-06/Mar/2025 17:06:16     current system memory usage reached 65%
-06/Mar/2025 17:07:16     current system memory usage reached 65%
-                         Used point accuracy enhancement value: 11.00%.
-                         PBA fill limit: 98.25% (inverse)
-06/Mar/2025 17:12:55     current system memory usage reached 65%
-06/Mar/2025 17:12:54     current system memory usage reached 65%
-                         Used point accuracy enhancement value: 2.00%.
-06/Mar/2025 17:13:40     current system memory usage reached 65%
-06/Mar/2025 17:14:27     current system memory usage reached 65%
-                         Used point accuracy enhancement value: 5.00%.
-06/Mar/2025 17:18:09     current system memory usage reached 65%
-06/Mar/2025 17:20:05     current system memory usage reached 65%
-06/Mar/2025 17:20:06     current system memory usage reached 65%
-06/Mar/2025 17:21:27     current system memory usage reached 65%
-06/Mar/2025 17:23:12     current system memory usage reached 65%
-06/Mar/2025 17:23:13     current system memory usage reached 65%
-06/Mar/2025 17:24:56     current system memory usage reached 65%
-06/Mar/2025 17:24:57     current system memory usage reached 65%
-06/Mar/2025 17:26:38     current system memory usage reached 65%
-06/Mar/2025 17:26:39     current system memory usage reached 65%
-06/Mar/2025 17:28:18     current system memory usage reached 65%
-06/Mar/2025 17:29:52     current system memory usage reached 65%
-06/Mar/2025 17:29:53     current system memory usage reached 65%
-06/Mar/2025 17:31:22     current system memory usage reached 65%
-                         Used point accuracy enhancement value: 10.00%.
-06/Mar/2025 17:39:21     current system memory usage reached 60%
-06/Mar/2025 17:40:19     current system memory usage reached 60%
-06/Mar/2025 17:41:17     current system memory usage reached 60%
-06/Mar/2025 17:43:07     current system memory usage reached 60%
-06/Mar/2025 17:43:08     current system memory usage reached 60%
-06/Mar/2025 17:43:57     current system memory usage reached 60%
-06/Mar/2025 17:43:56     current system memory usage reached 60%
-06/Mar/2025 17:44:44     current system memory usage reached 60%
-06/Mar/2025 17:45:29     current system memory usage reached 60%
-06/Mar/2025 17:45:30     current system memory usage reached 60%
-06/Mar/2025 17:46:15     current system memory usage reached 60%
-06/Mar/2025 17:47:00     current system memory usage reached 60%
-06/Mar/2025 17:47:01     current system memory usage reached 60%
-06/Mar/2025 17:50:12     current system memory usage reached 60%
-                         Used point accuracy enhancement value: 13.00%.
-                         Used point accuracy enhancement value: 8.00%.
-                         Used point accuracy enhancement value: 6.00%.
-                         Used point accuracy enhancement value: 9.00%.
-                         Used point accuracy enhancement value: 19.00%.
-                         PBA fill limit: 98.44% (inverse)
-                         Used point accuracy enhancement value: 75.00%.
-                         Used point accuracy enhancement value: 12.00%.
-                         Used point accuracy enhancement value: 14.00%.
-                         Used point accuracy enhancement value: 16.00%.
-                         Used point accuracy enhancement value: 15.00%.
-                         Used point accuracy enhancement value: 20.00%.
-                         Used point accuracy enhancement value: 18.00%.
-06/Mar/2025 19:05:50     current system memory usage reached 60%
-                         Used point accuracy enhancement value: 17.00%.
-06/Mar/2025 19:49:27     current system memory usage reached 60%
-06/Mar/2025 19:52:09     current system memory usage reached 60%
-06/Mar/2025 19:53:52     current system memory usage reached 60%
-06/Mar/2025 20:06:59     current system memory usage reached 60%
-06/Mar/2025 20:18:16     current system memory usage reached 60%
-06/Mar/2025 20:18:54     current system memory usage reached 60%
-06/Mar/2025 20:18:53     current system memory usage reached 60%
-06/Mar/2025 20:19:30     current system memory usage reached 60%
-06/Mar/2025 20:20:07     current system memory usage reached 60%
-06/Mar/2025 20:20:43     current system memory usage reached 60%
-06/Mar/2025 20:20:42     current system memory usage reached 60%
-06/Mar/2025 20:23:01     current system memory usage reached 60%
-06/Mar/2025 20:23:36     current system memory usage reached 60%
-06/Mar/2025 20:24:12     current system memory usage reached 60%
-06/Mar/2025 20:24:11     current system memory usage reached 60%
-06/Mar/2025 20:30:39     current system memory usage reached 60%
-06/Mar/2025 20:31:18     current system memory usage reached 60%
-06/Mar/2025 20:31:19     current system memory usage reached 60%
-06/Mar/2025 20:32:22     current system memory usage reached 60%
-06/Mar/2025 20:33:24     current system memory usage reached 60%
-06/Mar/2025 20:33:25     current system memory usage reached 60%
-06/Mar/2025 20:34:26     current system memory usage reached 60%
-06/Mar/2025 20:35:26     current system memory usage reached 60%
-06/Mar/2025 20:35:25     current system memory usage reached 60%
-06/Mar/2025 20:36:26     current system memory usage reached 60%
-06/Mar/2025 20:58:09     current system memory usage reached 60%
-06/Mar/2025 20:58:10     current system memory usage reached 60%
-06/Mar/2025 20:59:16     current system memory usage reached 60%
-06/Mar/2025 20:59:17     current system memory usage reached 60%
-06/Mar/2025 21:00:08     current system memory usage reached 60%
-06/Mar/2025 21:01:28     current system memory usage reached 60%
-06/Mar/2025 21:03:42     current system memory usage reached 60%
-06/Mar/2025 21:27:25     current system memory usage reached 60%
-06/Mar/2025 21:27:26     current system memory usage reached 60%
-06/Mar/2025 21:28:07     current system memory usage reached 60%
-06/Mar/2025 21:38:09     current system memory usage reached 60%
-06/Mar/2025 21:38:10     current system memory usage reached 60%
-06/Mar/2025 21:38:52     current system memory usage reached 60%
-06/Mar/2025 21:39:35     current system memory usage reached 60%
-06/Mar/2025 21:39:34     current system memory usage reached 60%
-06/Mar/2025 21:40:16     current system memory usage reached 60%
-06/Mar/2025 21:40:15     current system memory usage reached 60%
-06/Mar/2025 21:40:57     current system memory usage reached 60%
-06/Mar/2025 21:40:58     current system memory usage reached 60%
-06/Mar/2025 21:41:39     current system memory usage reached 60%
-06/Mar/2025 21:44:31     current system memory usage reached 60%
-06/Mar/2025 21:45:19     current system memory usage reached 60%
-06/Mar/2025 21:46:14     current system memory usage reached 60%
-06/Mar/2025 21:46:59     current system memory usage reached 60%
-06/Mar/2025 21:47:45     current system memory usage reached 60%
-06/Mar/2025 21:47:44     current system memory usage reached 60%
-06/Mar/2025 21:48:31     current system memory usage reached 60%
-06/Mar/2025 21:49:18     current system memory usage reached 60%
-06/Mar/2025 21:49:19     current system memory usage reached 60%
-06/Mar/2025 21:50:06     current system memory usage reached 60%
-06/Mar/2025 21:50:07     current system memory usage reached 60%
-06/Mar/2025 21:50:53     current system memory usage reached 60%
-06/Mar/2025 21:50:54     current system memory usage reached 60%
-06/Mar/2025 21:55:22     current system memory usage reached 60%
-06/Mar/2025 21:56:05     current system memory usage reached 60%
-06/Mar/2025 21:56:06     current system memory usage reached 60%
-06/Mar/2025 21:56:49     current system memory usage reached 60%
-06/Mar/2025 21:57:32     current system memory usage reached 60%
-06/Mar/2025 21:57:31     current system memory usage reached 60%
-06/Mar/2025 21:58:15     current system memory usage reached 60%
-06/Mar/2025 21:58:58     current system memory usage reached 60%
-06/Mar/2025 21:59:43     current system memory usage reached 60%
-06/Mar/2025 22:00:31     current system memory usage reached 60%
-06/Mar/2025 22:01:20     current system memory usage reached 60%
-06/Mar/2025 22:01:21     current system memory usage reached 60%
-06/Mar/2025 22:04:31     current system memory usage reached 60%
-06/Mar/2025 22:10:51     current system memory usage reached 60%
-06/Mar/2025 22:10:52     current system memory usage reached 60%
-06/Mar/2025 22:17:49     current system memory usage reached 60%
-06/Mar/2025 22:18:38     current system memory usage reached 60%
-06/Mar/2025 22:19:29     current system memory usage reached 60%
-06/Mar/2025 22:20:21     current system memory usage reached 60%
-06/Mar/2025 22:21:13     current system memory usage reached 60%
-06/Mar/2025 22:21:14     current system memory usage reached 60%
-06/Mar/2025 22:22:05     current system memory usage reached 60%
-06/Mar/2025 22:28:33     current system memory usage reached 60%
-06/Mar/2025 22:29:19     current system memory usage reached 60%
-06/Mar/2025 22:29:20     current system memory usage reached 60%
-06/Mar/2025 22:30:05     current system memory usage reached 60%
-06/Mar/2025 22:30:51     current system memory usage reached 60%
-06/Mar/2025 22:30:52     current system memory usage reached 60%
-06/Mar/2025 22:31:38     current system memory usage reached 60%
-06/Mar/2025 22:32:27     current system memory usage reached 60%
-06/Mar/2025 22:32:28     current system memory usage reached 60%
-06/Mar/2025 22:33:22     current system memory usage reached 60%
-06/Mar/2025 22:34:12     current system memory usage reached 60%
-06/Mar/2025 22:35:04     current system memory usage reached 60%
-06/Mar/2025 22:35:57     current system memory usage reached 60%
-06/Mar/2025 22:44:45     current system memory usage reached 60%
-06/Mar/2025 22:45:35     current system memory usage reached 60%
-06/Mar/2025 22:46:24     current system memory usage reached 60%
-06/Mar/2025 22:47:13     current system memory usage reached 60%
-06/Mar/2025 22:48:00     current system memory usage reached 60%
-06/Mar/2025 22:48:48     current system memory usage reached 60%
-06/Mar/2025 22:48:49     current system memory usage reached 60%
-06/Mar/2025 22:49:39     current system memory usage reached 60%
-06/Mar/2025 22:50:34     current system memory usage reached 60%
-06/Mar/2025 22:51:27     current system memory usage reached 60%
-06/Mar/2025 23:02:35     current system memory usage reached 60%
-06/Mar/2025 23:02:36     current system memory usage reached 60%
-06/Mar/2025 23:03:26     current system memory usage reached 60%
-06/Mar/2025 23:03:27     current system memory usage reached 60%
-06/Mar/2025 23:04:16     current system memory usage reached 60%
-06/Mar/2025 23:04:17     current system memory usage reached 60%
-06/Mar/2025 23:05:06     current system memory usage reached 60%
-06/Mar/2025 23:05:07     current system memory usage reached 60%
-06/Mar/2025 23:05:55     current system memory usage reached 60%
-06/Mar/2025 23:05:56     current system memory usage reached 60%
-06/Mar/2025 23:08:11     current system memory usage reached 60%
-06/Mar/2025 23:25:52     current system memory usage reached 65%
-06/Mar/2025 23:28:08     current system memory usage reached 65%
-06/Mar/2025 23:28:07     current system memory usage reached 65%
-06/Mar/2025 23:32:49     current system memory usage reached 65%
-06/Mar/2025 23:43:03     current system memory usage reached 70%
-06/Mar/2025 23:43:04     current system memory usage reached 70%
-06/Mar/2025 23:44:09     current system memory usage reached 70%
-06/Mar/2025 23:44:10     current system memory usage reached 70%
-06/Mar/2025 23:45:14     current system memory usage reached 70%
-06/Mar/2025 23:46:18     current system memory usage reached 70%
-06/Mar/2025 23:46:19     current system memory usage reached 70%
-06/Mar/2025 23:47:22     current system memory usage reached 70%
-06/Mar/2025 23:48:26     current system memory usage reached 70%
-06/Mar/2025 23:49:31     current system memory usage reached 70%
-06/Mar/2025 23:49:30     current system memory usage reached 70%
-06/Mar/2025 23:50:32     current system memory usage reached 70%
-06/Mar/2025 23:50:33     current system memory usage reached 70%
-06/Mar/2025 23:52:07     current system memory usage reached 70%
-06/Mar/2025 23:54:28     current system memory usage reached 70%
-06/Mar/2025 23:58:03     current system memory usage reached 65%
-06/Mar/2025 23:59:59     current system memory usage reached 65%
-07/Mar/2025 00:01:57     current system memory usage reached 65%
-07/Mar/2025 00:18:25     current system memory usage reached 65%
-07/Mar/2025 00:30:15     current system memory usage reached 60%
-07/Mar/2025 00:30:16     current system memory usage reached 60%
-07/Mar/2025 00:31:14     current system memory usage reached 60%
-07/Mar/2025 00:31:15     current system memory usage reached 60%
-07/Mar/2025 00:32:13     current system memory usage reached 60%
-07/Mar/2025 00:32:12     current system memory usage reached 60%
-07/Mar/2025 00:33:09     current system memory usage reached 60%
-07/Mar/2025 00:33:10     current system memory usage reached 60%
-07/Mar/2025 00:35:02     current system memory usage reached 60%
-07/Mar/2025 00:35:57     current system memory usage reached 60%
-07/Mar/2025 00:36:52     current system memory usage reached 60%
-07/Mar/2025 00:36:53     current system memory usage reached 60%
-07/Mar/2025 00:51:59     current system memory usage reached 60%
-07/Mar/2025 01:08:33     current system memory usage reached 60%
-07/Mar/2025 01:09:34     current system memory usage reached 60%
-07/Mar/2025 01:10:34     current system memory usage reached 60%
-07/Mar/2025 01:12:36     current system memory usage reached 60%
-07/Mar/2025 01:13:35     current system memory usage reached 60%
-07/Mar/2025 01:17:39     current system memory usage reached 60%
-07/Mar/2025 01:19:30     current system memory usage reached 60%
+07/Mar/2025 14:19:29     current system memory usage reached 55%
 
-07/Mar/2025 01:37:11  Using generalized port mode solver.
+07/Mar/2025 14:20:00  Using generalized port mode solver.
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:11  Using electric shielding for port 1.
+07/Mar/2025 14:20:00  Using electric shielding for port 1.
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:12  Boundary conditions: 
+07/Mar/2025 14:20:00  Boundary conditions: 
                       
                         YZsymmetry: none
                         XZsymmetry: none
                         XYsymmetry: none
                       
-                        Xmin: expanded open, 4 Layer, depth 18.4509 mm
-                        Xmax: expanded open, 4 Layer, depth 19.7491 mm
+                        Xmin: expanded open, 4 Layer, depth 17.414 mm
+                        Xmax: expanded open, 4 Layer, depth 18.5769 mm
                       
-                        Ymin: expanded open, 4 Layer, depth 18.4509 mm
-                        Ymax: expanded open, 4 Layer, depth 18.4509 mm
+                        Ymin: expanded open, 4 Layer, depth 17.414 mm
+                        Ymax: expanded open, 4 Layer, depth 17.414 mm
                       
-                        Zmin: expanded open, 4 Layer, depth 18.4953 mm
-                        Zmax: expanded open, 4 Layer, depth 19.7479 mm
+                        Zmin: expanded open, 4 Layer, depth 17.4432 mm
+                        Zmax: expanded open, 4 Layer, depth 18.5892 mm
                       
                         PML-Type: Convolution PML
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:12  Frequency settings: 
+07/Mar/2025 14:20:00  Frequency settings: 
                       
                         Fmin:         1000
                         Fmax:         4000
                         Nfsteps(lin): 1001
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:12  Field update statistics:
+07/Mar/2025 14:20:01  Field update statistics:
                       
-                        Number of components in total: 	1231281
-                        Number of TST elements:		490
-                        Number of lossy metal components:	23951
+                        Number of components in total: 	1375274
+                        Number of TST elements:		927
+                        Number of lossy metal components:	19399
                       
                       Subcycling state:      Automatically deactivated
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:12  Waveguide boundaries:
+07/Mar/2025 14:20:01  Waveguide boundaries:
                       
-07/Mar/2025 01:37:12  Port: 1
+07/Mar/2025 14:20:01  Port: 1
                       
-07/Mar/2025 01:37:12    ------------------------------ F-Calc 2.5e+03 ------------------------------
+07/Mar/2025 14:20:01    ------------------------------ F-Calc 2.5e+03 ------------------------------
                         Port   Mode   Type        Z-Wave        Z-Wave-Sigma  Z-Line        F-Cutoff
-                        1      1      QTEM        214           4.55e-008     44.9          ---
+                        1      1      QTEM        224           2.13e-009     45.9          ---
                         ----------------------------------------------------------------------------
                       
-07/Mar/2025 01:37:12  Using standard absorber for unconsidered modes at port 1.
+07/Mar/2025 14:20:01  Using standard absorber for unconsidered modes at port 1.
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:44  
+07/Mar/2025 14:20:32  
                       --------------------------------------------------------------------------------
-07/Mar/2025 01:37:44  *** Warning ***
-                      
-07/Mar/2025 01:37:44  Maximum number of pulse widths simulated, solver stopped.
-                      Please note that the steady state criterion [energy or port signal] could not have been satisfied. More...
+07/Mar/2025 14:20:32  Steady state energy criterion met, solver finished successfully.
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:44  Frequency domain results normalized to default signal.
+07/Mar/2025 14:20:32  Frequency domain results normalized to default signal.
                       
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:44  
+07/Mar/2025 14:20:32  
                         ----------------------------------------------------------------------------
                                             Peak memory used (kB)         Free physical memory (kB) 
                                                                           At begin     Minimum      
                         ----------------------------------------------------------------------------
-                        Matrices calc.      424824                        13779296     13360351     
-                        Solver run total    126044                        13911352     13701420     
+                        Matrices calc.      604940                        15855468     15487304     
+                        Solver run total    186488                        15926716     15738068     
                         ----------------------------------------------------------------------------
                       
                       --------------------------------------------------------------------------------
@@ -361,38 +152,38 @@
                            Number of CPU threads:               12
                            Hardware info:                  	Hardware Accelerator Device not activated
                       
-                        Number of mesh cells:             	199584
+                        Number of mesh cells:             	223353
                         Excitation duration:              	2.36969917e+000 ns 
                         Calculation time for excitation:  	0 	s
-                        Number of calculated pulse widths:	19.9997 
+                        Number of calculated pulse widths:	10.5708 
                         Steady state accuracy limit:      	-80	dB 
-                        Simulated number of time steps:   	49147 
-                        Maximum number of time steps:     	49147 
+                        Simulated number of time steps:   	37625 
+                        Maximum number of time steps:     	71186 
                         Time step width:
-                           without subcycles:             	9.643172025e-004 ns
-                           used:                          	9.643172025e-004 ns
+                           without subcycles:             	6.657688978e-004 ns
+                           used:                          	6.657688978e-004 ns
                       
-                        Matrix calculation time:          	9 	s
-                        Solver setup time:                	2 	s
-                        Solver loop time:                 	30 	s
+                        Matrix calculation time:          	33 	s
+                        Solver setup time:                	3 	s
+                        Solver loop time:                 	28 	s
                         Solver post-processing time:      	0 	s
                                                           	------------
-                        Total solver time:                	41 	s
+                        Total solver time:                	64 	s  ( = 0 h, 1 m, 4 s )
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:44  
-                        Adaptive port meshing time:          	12     	s
-                        Total solver time (all cycles):      	41     	s
+07/Mar/2025 14:20:32  
+                        Adaptive port meshing time:          	60     	s
+                        Total solver time (all cycles):      	64     	s  ( = 0 h, 1 m, 4 s )
                         Solver initialization and clean-up:  	2      	s
                                                              	------------
-                        Total simulation time:               	55     	s
+                        Total simulation time:               	126    	s  ( = 0 h, 2 m, 6 s )
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:44  Solver finished at: 01:37 AM Friday, 07. March 2025
+07/Mar/2025 14:20:32  Solver finished at: 02:20 PM Friday, 07. March 2025
                       
                       
                       
                       ------------------------------------------------------------------------------
-07/Mar/2025 01:37:46  Creating parametric 1D results for Run ID 480
+07/Mar/2025 14:20:36  Creating parametric 1D results for Run ID 481
                       
                       ------------------------------------------------------------------------------

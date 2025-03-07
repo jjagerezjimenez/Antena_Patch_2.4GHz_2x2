@@ -5,8 +5,8 @@
 [PCB_IMPORT_NEW: False]
 [DISABLE_FAST_LOAD: False]
 [WCS: 0 0 0 0 0 1 1 0 0]
-[BBOX:-64.979245800000001 64.979245800000001 -64.979245800000001 64.979245800000001 -30.329245799999999 45.148045799999998]
-[BBOX_STRUCTURE:-35 35 -35 35 -0.34999999999999998 15.168800000000001]
+[BBOX:-54.979245800000001 54.979245800000001 -54.979245800000001 54.979245800000001 -30.329245799999999 45.148045799999998]
+[BBOX_STRUCTURE:-25 25 -25 25 -0.34999999999999998 15.168800000000001]
 [UNITS]
      .Geometry "mm" 
      .Frequency "MHz" 
@@ -561,7 +561,7 @@ Solver.FrequencyRange "1000", "4000"
      .Orientation "zmax"
      .PortOnBound "False"
      .ClipPickedPortToBound "False"
-     .Xrange "0", "24.957600000000003"
+     .Xrange "0", "24.857600000000001"
      .Yrange "0", "12.7988"
      .Zrange "0", "0"
      .XrangeAdd "0.0", "0.0"
@@ -570,6 +570,6 @@ Solver.FrequencyRange "1000", "4000"
      .SingleEnded "False"
      .Shield "PEC"
      .WaveguideMonitor "False"
-     .ReferenceWCS "12.4788", "6.3994", "0", "0", "0", "1", "0", "1", "0"
-(TRANSFORM) "0", "1", "0", "0", "0", "1", "1", "0", "0"| "35", "-12.4788", "2.37"(ENDTRANSFORM)
+     .ReferenceWCS "12.4288", "6.3994", "0", "0", "0", "1", "0", "1", "0"
+(TRANSFORM) "0", "1", "0", "0", "0", "1", "1", "0", "0"| "25", "-12.4288", "2.37"(ENDTRANSFORM)
 [ENDWAVEGUIDE]

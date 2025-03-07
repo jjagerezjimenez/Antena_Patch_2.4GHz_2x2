@@ -138,6 +138,28 @@
                     "treePath": "{\"plotSettings\":\"{\\\"payload\\\":{\\\"viewtype\\\":\\\"db\\\"},\\\"version\\\":1}\",\"treePaths\":[\"1D Results\\\\S-Parameters\"]}",
                     "uid": "00a4d1e864e847379e475b7c9bc9b0e6",
                     "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "Components\\Guia alimentacion",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "91f327e6ec724fb6a9da9a743caa7b7e\\4527cb210a544e7d8d6e380cd2efcde2.png",
+                    "sortkey": 12,
+                    "treePath": "{\"plotSettings\":\"<?xml version=\\\"1.0\\\" encoding=\\\"UTF-8\\\"?>\\n<RememberPlots version=\\\"20200930\\\">\\n  <ModelViewSettings name=\\\"\\\" workplane=\\\"1\\\">\\n    <ViewSettings axes=\\\"1\\\" bbox=\\\"1\\\" wireframe=\\\"0\\\">\\n      <Camera matrix=\\\"-0.0788188204 -0.858620405 0.506472945 0 -0.960968912 0.200562641 0.190441415 0 -0.265096635 -0.471710652 -0.840928495 0 0 0 0 1\\\" center=\\\"-4.0356555 -4.02059841\\\" distance=\\\"0\\\" scale=\\\"2.53303409\\\"/>\\n      <Cutplane active=\\\"0\\\" normal=\\\"1 0 0\\\" dist=\\\"0\\\" covermode=\\\"HIDE\\\"/>\\n    </ViewSettings>\\n  </ModelViewSettings>\\n</RememberPlots>\\n\",\"treePaths\":[\"Components\\\\Guia alimentacion\"]}",
+                    "uid": "4527cb210a544e7d8d6e380cd2efcde2",
+                    "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "1D Results\\S-Parameters\\S1,1",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "91f327e6ec724fb6a9da9a743caa7b7e\\911cbeeffccc4ff394a3c09f6c8c243e.png",
+                    "sortkey": 13,
+                    "treePath": "{\"plotSettings\":\"{\\\"payload\\\":{\\\"viewtype\\\":\\\"db\\\"},\\\"version\\\":1}\",\"treePaths\":[\"1D Results\\\\S-Parameters\\\\S1,1\"]}",
+                    "uid": "911cbeeffccc4ff394a3c09f6c8c243e",
+                    "vis3DFilepath": ""
                 }
             ],
             "name": "Report 1",

@@ -2,7 +2,7 @@
 <CSTAuxiliaryGeometry version="20170928" creator="modeler">
   <Objects>
     <Object name="Ports\port1" id="7">
-      <LineSet points="35 -12.4787998 2.36999989 35 12.4787998 2.36999989 35 12.4787998 15.1688004 35 -12.4787998 15.1688004 35 -12.4787998 2.36999989" stripped="1" material="$PortMaterial$" text="1" short="1"/>
+      <LineSet points="25 -12.4287996 2.36999989 25 12.4287996 2.36999989 25 12.4287996 15.1688004 25 -12.4287996 15.1688004 25 -12.4287996 2.36999989" stripped="1" material="$PortMaterial$" text="1" short="1"/>
     </Object>
   </Objects>
   <Materials/>

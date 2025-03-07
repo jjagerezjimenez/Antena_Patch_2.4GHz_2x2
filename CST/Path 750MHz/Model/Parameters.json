@@ -2,21 +2,21 @@
     "parameters": [
         {
             "descr": "La mitad del tamaño de una placa cuadrada",
-            "expr": "35",
+            "expr": "25",
             "name": "Placa",
-            "value": "35"
+            "value": "25"
         },
         {
             "descr": "Ancho del parche",
-            "expr": "60",
+            "expr": "30",
             "name": "Wp",
-            "value": "60"
+            "value": "30"
         },
         {
             "descr": "Largo del parche",
-            "expr": "60",
+            "expr": "38",
             "name": "Lp",
-            "value": "60"
+            "value": "38"
         },
         {
             "descr": "Ancho de la ranura",
@@ -26,21 +26,21 @@
         },
         {
             "descr": "Largo de la ranura",
-            "expr": "36.8",
+            "expr": "14",
             "name": "La",
-            "value": "36.8"
+            "value": "14"
         },
         {
             "descr": "Ancho de la guia de onda",
-            "expr": "3.1",
+            "expr": "3",
             "name": "Wf",
-            "value": "3.1"
+            "value": "3"
         },
         {
             "descr": "Largo de la guia de onda",
-            "expr": "41",
+            "expr": "40",
             "name": "Lf",
-            "value": "41"
+            "value": "40"
         },
         {
             "expr": "98.1875",

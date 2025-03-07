@@ -47,9 +47,9 @@ PortModeConsState: 0
 
 
 *** newmonitor
-monname: "farfield (f=2400)"
+monname: "farfield (f=2245)"
 nmonfrequencies: 1
-monfrequencies: "2400" 
+monfrequencies: "2245" 
 montype: 18
 mondomain: 1
 mon_fmin: ""
@@ -58,20 +58,9 @@ mon_nfSteps: ""
 *** endmonitor
 
 *** newmonitor
-monname: "h-field (f=2400)"
+monname: "e-field (f=2245)"
 nmonfrequencies: 1
-monfrequencies: "2400" 
-montype: 1
-mondomain: 1
-mon_fmin: ""
-mon_fmax: ""
-mon_nfSteps: ""
-*** endmonitor
-
-*** newmonitor
-monname: "e-field (f=2400)"
-nmonfrequencies: 1
-monfrequencies: "2400" 
+monfrequencies: "2245" 
 montype: 0
 mondomain: 1
 mon_fmin: ""
@@ -80,10 +69,21 @@ mon_nfSteps: ""
 *** endmonitor
 
 *** newmonitor
-monname: "loss (f=2400)"
+monname: "loss (f=2245)"
 nmonfrequencies: 1
-monfrequencies: "2400" 
+monfrequencies: "2245" 
 montype: 6
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=2245)"
+nmonfrequencies: 1
+monfrequencies: "2245" 
+montype: 1
 mondomain: 1
 mon_fmin: ""
 mon_fmax: ""

@@ -7,17 +7,17 @@
       {
          "name": "Placa",
          "type": "float",
-         "value": 35.0
+         "value": 25.0
       },
       {
          "name": "Wp",
          "type": "float",
-         "value": 60.0
+         "value": 30.0
       },
       {
          "name": "Lp",
          "type": "float",
-         "value": 60.0
+         "value": 38.0
       },
       {
          "name": "Wa",
@@ -27,17 +27,17 @@
       {
          "name": "La",
          "type": "float",
-         "value": 36.8
+         "value": 14.0
       },
       {
          "name": "Wf",
          "type": "float",
-         "value": 3.1
+         "value": 3.0
       },
       {
          "name": "Lf",
          "type": "float",
-         "value": 41.0
+         "value": 40.0
       },
       {
          "name": "Lamda",
